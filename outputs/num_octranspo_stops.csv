@@ -1,0 +1,109 @@
+measure,ONS_ID,value,Name,Name_FR
+transit_count,0,5697,Ottawa,Ottawa
+transit_count,3,51,Beacon Hill South - Cardinal Heights,NA
+transit_count,5,5,Beechwood Cemetery,NA
+transit_count,6,33,Bells Corners East,NA
+transit_count,7,35,Bells Corners West,NA
+transit_count,11,38,Braemar Park - Bel Air Heights - Copeland Park,NA
+transit_count,12,16,Briar Green - Leslie Park,NA
+transit_count,13,104,Bridlewood - Emerald Meadows,NA
+transit_count,16,21,Carleton Heights - Rideauview,NA
+transit_count,17,8,Carleton University,NA
+transit_count,18,82,Carlington,NA
+transit_count,23,42,Centrepointe,NA
+transit_count,24,88,Centretown,NA
+transit_count,28,97,Civic Hospital-Central Park,NA
+transit_count,31,51,Cityview - Crestview - Meadowlands,NA
+transit_count,32,39,Crystal Bay - Lakeview Park,NA
+transit_count,35,4,Dunrobin,NA
+transit_count,38,21,Emerald Woods - Sawmill Creek,NA
+transit_count,45,43,Greenboro East,NA
+transit_count,46,26,Hawthorne Meadows - Sheffield Glen,NA
+transit_count,47,40,Hintonburg - Mechanicsville,NA
+transit_count,48,50,Hunt Club - Ottawa Airport,NA
+transit_count,49,62,Hunt Club East - Western Community,NA
+transit_count,50,32,Hunt Club Park,NA
+transit_count,51,62,Hunt Club South Industrial,NA
+transit_count,52,36,Hunt Club Upper -Blossom Park - Timbermill,NA
+transit_count,54,38,Iris - Queensway Terrance South,NA
+transit_count,55,45,Island Park - Wellington Village,NA
+transit_count,60,17,Lebreton Development,NA
+transit_count,64,68,Manotick,NA
+transit_count,65,62,Merivale Gardens - Grenfell Glen - Pineglen - Country Place,NA
+transit_count,66,12,Metcalfe,NA
+transit_count,67,22,Munster - Ashton,NA
+transit_count,70,18,North Gower - Kars,NA
+transit_count,71,1,Notre-Dame Cemetery,NA
+transit_count,75,61,Chapel Hill South,NA
+transit_count,76,29,Chatelaine Village,NA
+transit_count,77,17,Orléans Industrial,NA
+transit_count,81,3,Osgoode - Vernon,NA
+transit_count,82,39,Old Ottawa East,NA
+transit_count,83,32,Old Ottawa South,NA
+transit_count,86,23,Pineview,NA
+transit_count,87,31,Playfair Park - Lynda Park - Guildwood Estates,NA
+transit_count,88,33,Qualicum - Redwood Park,NA
+transit_count,90,47,Riverside Park,NA
+transit_count,93,67,Rothwell Heights - Beacon Hill North,NA
+transit_count,97,52,South Keys - Greenboro West,NA
+transit_count,99,29,Tanglewood,NA
+transit_count,100,28,Trend-Arlington,NA
+transit_count,106,72,Whitehaven - Queensway Terrace North,NA
+transit_count,108,51,Woodvale - Craig Henry - Manordale - Estates of Arlington Woods,NA
+transit_count,901,31,Bayshore - Belltown,NA
+transit_count,902,46,Beaverbrook,NA
+transit_count,903,126,Billings Bridge - Alta Vista,NA
+transit_count,904,55,Blackburn Hamlet,NA
+transit_count,905,44,Borden Farm - Fisher Glen,NA
+transit_count,906,45,Britannia Village,NA
+transit_count,907,97,Brookside - Briarbrook - Morgan's Grant,NA
+transit_count,908,27,Byward Market,NA
+transit_count,909,73,Cardinal Creek,NA
+transit_count,910,59,Carlingwood West - Glabar Park - McKellar Heights,NA
+transit_count,911,11,Carp,NA
+transit_count,912,75,Carson Grove - Carson Meadows,NA
+transit_count,913,54,Chapel Hill North,NA
+transit_count,914,44,Chapman Mills,NA
+transit_count,915,122,Convent Glen - Orléans Woods,NA
+transit_count,916,61,Cumberland,NA
+transit_count,917,185,East Industrial,NA
+transit_count,918,32,Edwards - Carlsbad Springs,NA
+transit_count,919,58,Elmvale - Canterbury,NA
+transit_count,920,126,Fallingbrook,NA
+transit_count,921,57,Findlay Creek,NA
+transit_count,923,52,Glebe - Dows Lake,NA
+transit_count,924,76,Glen Cairn - Kanata South Business Park,NA
+transit_count,925,18,Greely,NA
+transit_count,926,126,Greenbelt,NA
+transit_count,927,49,Hunt Club Woods - Quintarra - Revelstoke,NA
+transit_count,928,102,Kanata Lakes - Arcardia,NA
+transit_count,929,95,Katimavik - Hazeldean,NA
+transit_count,931,57,Laurentian,NA
+transit_count,932,45,Ledbury - Heron Gate - Ridgemont,NA
+transit_count,933,28,Lindenlea - New Edinburgh,NA
+transit_count,934,27,Lowertown,NA
+transit_count,935,33,Manor Park,NA
+transit_count,936,91,Navan - Sarsfield,NA
+transit_count,937,119,Old Barrhaven East,NA
+transit_count,938,104,Old Barrhaven West,NA
+transit_count,939,68,Orléans Village - Chateauneuf,NA
+transit_count,940,128,Overbrook - McArthur,NA
+transit_count,941,21,Parkwood Hills - Stewart Farm,NA
+transit_count,942,112,Portobello South,NA
+transit_count,943,108,Queenswood Heights,NA
+transit_count,944,79,Richmond,NA
+transit_count,945,50,Rideau Crest - Davidson Heights,NA
+transit_count,946,62,Riverside South - Leitrim,NA
+transit_count,947,37,Riverview,NA
+transit_count,948,7,Rockcliffe Park,NA
+transit_count,949,59,Sandy Hill,NA
+transit_count,950,28,Skyline - Fisher Heights,NA
+transit_count,951,206,Stittsville,NA
+transit_count,952,59,Stonebridge - Half Moon Bay - Heart's Desire,NA
+transit_count,953,46,Vanier North,NA
+transit_count,954,32,Vanier South,NA
+transit_count,955,18,Vars,NA
+transit_count,956,15,Wateridge Village,NA
+transit_count,957,51,West Centretown,NA
+transit_count,958,78,Westboro,NA
+transit_count,NA,21,NA,NA

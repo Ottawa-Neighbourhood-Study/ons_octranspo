@@ -1,0 +1,109 @@
+measure,ONS_ID,value,Name,Name_FR
+transit_countsqkm,0,2.0368251698248123,Ottawa,Ottawa
+transit_countsqkm,3,22.849012684327874,Beacon Hill South - Cardinal Heights,NA
+transit_countsqkm,5,7.514943386016188,Beechwood Cemetery,NA
+transit_countsqkm,6,9.83607284454863,Bells Corners East,NA
+transit_countsqkm,7,25.53440293479412,Bells Corners West,NA
+transit_countsqkm,11,16.110831681925745,Braemar Park - Bel Air Heights - Copeland Park,NA
+transit_countsqkm,12,8.410303692444648,Briar Green - Leslie Park,NA
+transit_countsqkm,13,15.975518550086269,Bridlewood - Emerald Meadows,NA
+transit_countsqkm,16,9.843701229074645,Carleton Heights - Rideauview,NA
+transit_countsqkm,17,8.77336618429643,Carleton University,NA
+transit_countsqkm,18,30.218668613582274,Carlington,NA
+transit_countsqkm,23,19.840224508503777,Centrepointe,NA
+transit_countsqkm,24,26.27120277238976,Centretown,NA
+transit_countsqkm,28,12.918357704772255,Civic Hospital-Central Park,NA
+transit_countsqkm,31,12.906081013611415,Cityview - Crestview - Meadowlands,NA
+transit_countsqkm,32,7.070753897923918,Crystal Bay - Lakeview Park,NA
+transit_countsqkm,35,0.031535424814109744,Dunrobin,NA
+transit_countsqkm,38,11.58653943183156,Emerald Woods - Sawmill Creek,NA
+transit_countsqkm,45,19.783707741428607,Greenboro East,NA
+transit_countsqkm,46,22.46070503541484,Hawthorne Meadows - Sheffield Glen,NA
+transit_countsqkm,47,21.824108960478057,Hintonburg - Mechanicsville,NA
+transit_countsqkm,48,3.267555656069634,Hunt Club - Ottawa Airport,NA
+transit_countsqkm,49,18.102421972992612,Hunt Club East - Western Community,NA
+transit_countsqkm,50,17.57796285337769,Hunt Club Park,NA
+transit_countsqkm,51,13.546316562726872,Hunt Club South Industrial,NA
+transit_countsqkm,52,8.252611304163569,Hunt Club Upper -Blossom Park - Timbermill,NA
+transit_countsqkm,54,17.63179622213729,Iris - Queensway Terrance South,NA
+transit_countsqkm,55,17.996939001428107,Island Park - Wellington Village,NA
+transit_countsqkm,60,19.537357421925062,Lebreton Development,NA
+transit_countsqkm,64,1.1615876377032592,Manotick,NA
+transit_countsqkm,65,9.546111970299082,Merivale Gardens - Grenfell Glen - Pineglen - Country Place,NA
+transit_countsqkm,66,0.08579119985357272,Metcalfe,NA
+transit_countsqkm,67,0.16147170336621716,Munster - Ashton,NA
+transit_countsqkm,70,0.12376265866904848,North Gower - Kars,NA
+transit_countsqkm,71,4.878879046704504,Notre-Dame Cemetery,NA
+transit_countsqkm,75,6.119802612123315,Chapel Hill South,NA
+transit_countsqkm,76,7.630101418387179,Chatelaine Village,NA
+transit_countsqkm,77,32.355922701974734,Orléans Industrial,NA
+transit_countsqkm,81,0.02207728089920836,Osgoode - Vernon,NA
+transit_countsqkm,82,22.70243438541541,Old Ottawa East,NA
+transit_countsqkm,83,22.16076684541412,Old Ottawa South,NA
+transit_countsqkm,86,12.654642085272375,Pineview,NA
+transit_countsqkm,87,15.000774756143436,Playfair Park - Lynda Park - Guildwood Estates,NA
+transit_countsqkm,88,17.937551757242854,Qualicum - Redwood Park,NA
+transit_countsqkm,90,14.5996881317751,Riverside Park,NA
+transit_countsqkm,93,11.265167627030138,Rothwell Heights - Beacon Hill North,NA
+transit_countsqkm,97,16.390813163437215,South Keys - Greenboro West,NA
+transit_countsqkm,99,13.233689836753415,Tanglewood,NA
+transit_countsqkm,100,16.179096159831662,Trend-Arlington,NA
+transit_countsqkm,106,22.5535214375165,Whitehaven - Queensway Terrace North,NA
+transit_countsqkm,108,15.81474156759313,Woodvale - Craig Henry - Manordale - Estates of Arlington Woods,NA
+transit_countsqkm,901,19.27941724023415,Bayshore - Belltown,NA
+transit_countsqkm,902,16.20180519978172,Beaverbrook,NA
+transit_countsqkm,903,20.301922545032227,Billings Bridge - Alta Vista,NA
+transit_countsqkm,904,18.615348579506446,Blackburn Hamlet,NA
+transit_countsqkm,905,17.03880573018646,Borden Farm - Fisher Glen,NA
+transit_countsqkm,906,21.298751995509065,Britannia Village,NA
+transit_countsqkm,907,10.2732194626621,Brookside - Briarbrook - Morgan's Grant,NA
+transit_countsqkm,908,21.704846615960825,Byward Market,NA
+transit_countsqkm,909,7.665834525207309,Cardinal Creek,NA
+transit_countsqkm,910,19.846722116804823,Carlingwood West - Glabar Park - McKellar Heights,NA
+transit_countsqkm,911,0.06148241344805143,Carp,NA
+transit_countsqkm,912,16.821903181625057,Carson Grove - Carson Meadows,NA
+transit_countsqkm,913,14.247682629855243,Chapel Hill North,NA
+transit_countsqkm,914,12.112062952473622,Chapman Mills,NA
+transit_countsqkm,915,19.946409647669476,Convent Glen - Orléans Woods,NA
+transit_countsqkm,916,1.119348626621359,Cumberland,NA
+transit_countsqkm,917,14.192537700232446,East Industrial,NA
+transit_countsqkm,918,0.1918773537223968,Edwards - Carlsbad Springs,NA
+transit_countsqkm,919,14.487287343784857,Elmvale - Canterbury,NA
+transit_countsqkm,920,22.088243821143934,Fallingbrook,NA
+transit_countsqkm,921,5.861507752496584,Findlay Creek,NA
+transit_countsqkm,923,19.08057451269343,Glebe - Dows Lake,NA
+transit_countsqkm,924,16.772368775602967,Glen Cairn - Kanata South Business Park,NA
+transit_countsqkm,925,0.25895210366374183,Greely,NA
+transit_countsqkm,926,0.759117460691943,Greenbelt,NA
+transit_countsqkm,927,9.528769981068349,Hunt Club Woods - Quintarra - Revelstoke,NA
+transit_countsqkm,928,8.512742859571587,Kanata Lakes - Arcardia,NA
+transit_countsqkm,929,17.216212650692047,Katimavik - Hazeldean,NA
+transit_countsqkm,931,20.856558452820508,Laurentian,NA
+transit_countsqkm,932,16.7724341707807,Ledbury - Heron Gate - Ridgemont,NA
+transit_countsqkm,933,16.466029731193835,Lindenlea - New Edinburgh,NA
+transit_countsqkm,934,34.05712682917422,Lowertown,NA
+transit_countsqkm,935,17.715267339488943,Manor Park,NA
+transit_countsqkm,936,0.8185724010251606,Navan - Sarsfield,NA
+transit_countsqkm,937,19.313391987233803,Old Barrhaven East,NA
+transit_countsqkm,938,20.383038418585038,Old Barrhaven West,NA
+transit_countsqkm,939,20.807663249402204,Orléans Village - Chateauneuf,NA
+transit_countsqkm,940,20.987458313349393,Overbrook - McArthur,NA
+transit_countsqkm,941,41.24819399938598,Parkwood Hills - Stewart Farm,NA
+transit_countsqkm,942,14.145899600776227,Portobello South,NA
+transit_countsqkm,943,24.521149672322334,Queenswood Heights,NA
+transit_countsqkm,944,0.4679244727633757,Richmond,NA
+transit_countsqkm,945,10.433234210047722,Rideau Crest - Davidson Heights,NA
+transit_countsqkm,946,2.5343182291307818,Riverside South - Leitrim,NA
+transit_countsqkm,947,20.489393823111175,Riverview,NA
+transit_countsqkm,948,3.1149523956465655,Rockcliffe Park,NA
+transit_countsqkm,949,27.217536001955384,Sandy Hill,NA
+transit_countsqkm,950,14.50218036319558,Skyline - Fisher Heights,NA
+transit_countsqkm,951,6.866401586944602,Stittsville,NA
+transit_countsqkm,952,4.061387908525682,Stonebridge - Half Moon Bay - Heart's Desire,NA
+transit_countsqkm,953,27.008855034552127,Vanier North,NA
+transit_countsqkm,954,24.03944698965011,Vanier South,NA
+transit_countsqkm,955,0.23349048571755943,Vars,NA
+transit_countsqkm,956,3.7593984962406015,Wateridge Village,NA
+transit_countsqkm,957,28.564823632077825,West Centretown,NA
+transit_countsqkm,958,24.62192331240992,Westboro,NA
+transit_countsqkm,NA,NA,NA,NA
