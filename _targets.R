@@ -301,10 +301,23 @@ list(
 
              }),
 
+  targets::tar_target(compare_last_time,{
+    ons_data %>%
+      dplyr::filter(polygon_attribute %in% c(unique(all_outputs_long$measure))) %>%
+      dplyr::select(measure = polygon_attribute, ONS_ID, value_old = value) %>%
+      dplyr::mutate(ONS_ID = as.numeric(ONS_ID)) %>%
+      dplyr::left_join(all_outputs_long, by = c("ONS_ID", "measure") )%>%
+      dplyr::mutate(value_diff = value-value_old,
+                    value_diff_pct = value_diff/value_old)
+
+  }),
+
   targets::tar_target(save_results,{
     readr::write_csv(all_outputs_long, sprintf("output_final/octranspo_results_long-%s.csv", Sys.Date()))
     readr::write_csv(all_outputs_wide, sprintf("output_final/octranspo_results_wide-%s.csv", Sys.Date()))
+    readr::write_csv(compare_last_time, sprintf("output_final/octranspo_diffs-%s.csv", Sys.Date()))
   }),
+
 
   NULL
 

@@ -1,6 +1,7 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
 all_outputs_long|stem|b826a68df3ab1c49|d07b7faeef80aa56|6f4907a45829408f|-596363511||t19265.8323334916s|e61a516f176f57b2|6326|rds|local|vector|||0.001||
 all_outputs_wide|stem|2d22a1c04408c10e|a143540d357b8b41|afe9504e43562300|-1402237629||t19265.8323338388s|cc18ffdc401a5511|3895|rds|local|vector|||0.016||
+compare_last_time|stem|937cbd2139b06831|6cf4da47a0c9e543|569a0cca483d9da8|545195939||t19265.841660671s|d3f941153f7f779e|17366|rds|local|vector|||0.046||
 dbs_stops_600mwalk|stem|0c5763dd68bd9028|ae4741687a94ec87|88087871d736d2e3|109566038||t19262.7838793356s|b889ca12edd7941f|28579|rds|local|vector|||804.484||
 dbs_stops_600mwalk_all|stem|c64b4b020f59bd4e|db84b1303580966f|c2fbbc8c81ad081c|1553568464||t19263.6233649742s|9067163fbc1e4651|35017|rds|local|vector|||0.043||
 dbs_stops_close_buffer|stem|bb1100750c3f5a8f|6dbfd3bf563cdc5e|5651e0dfecbafcb4|-879598753||t19262.749672775s|4b352e418a76c678|1197551|rds|local|vector|||870.192||
@@ -16,7 +17,7 @@ ott_dbs_nad|stem|6a6ed907866bd724|d27b57ec296c8579|a2fc94158a37ebd8|-1670312409|
 ott_dbs_shp|stem|70eb0536689daaf7|b8c6f33edd39f5cd|c3b5fc02cdc369c1|2009317829||t19262.7279839627s|e963979d3ad941a7|285103|rds|local|vector|||3.567|running command timedatectl had status 1|
 ott_dbs_shp_whole|stem|82f9fe043f44c1af|f447df5926783f0e|7601abaaee35d97a|1017286579||t19262.730936459s|ee7759ec9dccd1e7|2305855|rds|local|vector|||3.016||
 ott_dbs_wgs84|stem|55b3dbb14fce2985|97fa43a62111ed68|9af706ad927d1ae5|633153454||t19262.7279850044s|38addf459a51d6e1|135473|rds|local|vector|||0.051||
-save_results|stem|2d22a1c04408c10e|99e766425c49eb81|52fc0d3685e2bde5|-1191734632||t19265.8362691404s|cc18ffdc401a5511|3895|rds|local|vector|||0.106||
+save_results|stem|937cbd2139b06831|477a88476e1d20bc|ac7df55de44e48d1|-1191734632||t19265.8416624071s|d3f941153f7f779e|17366|rds|local|vector|||0.144||
 stops|stem|80f4016485fec33b|e9a06351f606151d|e33ecdd4ec8de7d5|1317467708||t19262.7261964745s|c3eb67ef0d9193c5|132806|rds|local|vector|||0.002||
 stops_nad|stem|d99a57aaf2d6305c|b336030a3ab413dc|ea37d899887d2603|-2089883226||t19262.7261985578s|99feacb8f3bdd30f|161904|rds|local|vector|||0.156||
 stops_nad_shp|stem|1e8bc16d14caf0b3|9e800f330d9603f4|86d31f44858213de|241777226||t19262.7325140922s|b94845b4fcb5cd0d|169105|rds|local|vector|||0.086||

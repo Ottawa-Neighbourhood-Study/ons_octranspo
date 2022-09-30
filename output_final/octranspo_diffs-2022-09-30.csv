@@ -1,0 +1,561 @@
+measure,ONS_ID,value_old,value,Name,Name_FR,value_diff,value_diff_pct
+transit_numS,0,10.12948366,8.938288399703191,Ottawa,Ottawa,-1.1911952602968086,-0.11759683911635913
+transit_numS,3,13.50170788,13.243243243243244,Beacon Hill South - Cardinal Heights,Beacon Hill Sud - Cardinal Heights,-0.2584646367567558,-0.019143106861289595
+transit_numS,5,0,0,Beechwood Cemetery,Cimetière Beechwood,0,NA
+transit_numS,6,6.601299229,4.964912280701754,Bells Corners East,Bells Corners Est,-1.636386948298246,-0.24788861882059157
+transit_numS,7,13.20455591,12.741935483870968,Bells Corners West,Bells Corners Ouest,-0.46262042612903187,-0.03503490986612301
+transit_numS,11,9.2536285,10.846153846153847,Braemar Park - Bel Air Heights - Copeland Park,Parc Braemar - Hauteurs Bel Air - Parc Copeland,1.592525346153847,0.17209739359580375
+transit_numS,12,5.259107807,5.0588235294117645,Briar Green - Leslie Park,Briar Green - Parc Leslie,-0.20028427758823586,-0.038083318490191934
+transit_numS,13,9.284631148,9.300653594771243,Bridlewood - Emerald Meadows, ,0.01602244677124176,0.0017256955624664907
+transit_numS,16,6.930895569,6.725,Carleton Heights - Rideauview,Hauteurs Carleton - Rideauview,-0.20589556899999994,-0.02970692127016233
+transit_numS,17,4,4.4,Carleton University,Université Carleton,0.40000000000000036,0.10000000000000009
+transit_numS,18,17.13568682,18.468354430379748,Carlington, ,1.3326676103797475,0.07777147332223171
+transit_numS,23,8.922567288,9.913793103448276,Centrepointe, ,0.991225815448276,0.11109199667021621
+transit_numS,24,19.91946051,19.130434782608695,Centretown,Centre-Ville,-0.789025727391305,-0.03961079804320991
+transit_numS,28,10.92426244,12.660869565217391,Civic Hospital-Central Park,Hôpital Civique - Parc Central,1.7366071252173914,0.15896790604907798
+transit_numS,29,0,0,Constance Bay,Baie Constance,0,NA
+transit_numS,30,0,0,Corkery, ,0,NA
+transit_numS,31,7.932633225,7.73109243697479,Cityview - Crestview - Meadowlands, ,-0.20154078802521003,-0.025406543112323213
+transit_numS,32,6.217465268,6.666666666666667,Crystal Bay - Lakeview Park,Baie Crystal - Parc Lakeview,0.4492013986666672,0.07224831652516232
+transit_numS,35,0.057420832,0.18840579710144928,Dunrobin, ,0.13098496510144927,2.2811401461659293
+transit_numS,38,14.35733869,12.384615384615385,Emerald Woods - Sawmill Creek, ,-1.9727233053846156,-0.1374017391369776
+transit_numS,45,12.68154415,11.142857142857142,Greenboro East,Greenboro Est,-1.5386870071428582,-0.12133278005761294
+transit_numS,46,11.10233559,10.615384615384615,Hawthorne Meadows - Sheffield Glen, ,-0.48695097461538417,-0.04386022838779855
+transit_numS,47,17.0580058,17.025316455696203,Hintonburg - Mechanicsville, ,-0.03268934430379744,-0.0019163637700133412
+transit_numS,48,3.110903659,5.186440677966102,Hunt Club - Ottawa Airport,Hunt Club - Aéroport d'Ottawa,2.075537018966102,0.6671813872993044
+transit_numS,49,13.52736904,11.630434782608695,Hunt Club East - Western Community,Hunt Club Est - Communauté de l'Ouest,-1.8969342573913046,-0.14022935663114758
+transit_numS,50,10.31228847,9.630434782608695,Hunt Club Park,Parc Hunt Club,-0.681853687391305,-0.06612050170773637
+transit_numS,51,6.218088986,6.894736842105263,Hunt Club South Industrial,Hunt Club Sud Industriel,0.6766478561052631,0.10881926225705885
+transit_numS,52,6.513246932,6.7368421052631575,Hunt Club Upper -Blossom Park - Timbermill,Hunt Club Supérieur - Parc Blossom - Timbermill,0.22359517326315714,0.03432929468167708
+transit_numS,54,10.57508862,11.119047619047619,Iris - Queensway Terrance South,Iris - Queensway Terrance Sud,0.5439589990476179,0.051437772163806024
+transit_numS,55,14.91005196,13.658227848101266,Island Park - Wellington Village,Island Park - Village Wellington,-1.2518241118987348,-0.0839584003635313
+transit_numS,60,17.70081301,10.466666666666667,Lebreton Development,Développement Lebreton,-7.234146343333334,-0.4086900606907961
+transit_numS,64,1.664400442,2.911290322580645,Manotick, ,1.246889880580645,0.7491525771780857
+transit_numS,65,8.041212534,7.730769230769231,Merivale Gardens - Grenfell Glen - Pineglen - Country Place,Merivale Gardens - Grenfell Glen - Pineglen - Country Place,-0.31044330323076874,-0.03860652879377915
+transit_numS,66,1.04590638,1.5638297872340425,Metcalfe, ,0.5179234072340426,0.4951909818487221
+transit_numS,67,1.055238095,1.1612903225806452,Munster - Ashton, ,0.10605222758064525,0.10050075720650063
+transit_numS,70,0.510612974,0.9857142857142858,North Gower - Kars, ,0.4751013117142857,0.9304528790024158
+transit_numS,71,2,0,Notre-Dame Cemetery,Cimetière Notre-Dame,-2,-1
+transit_numS,75,6.276969344,6.3896103896103895,Chapel Hill South,Chapel Hill Sud,0.11264104561038923,0.017945132346083546
+transit_numS,76,6.241446453,8.242424242424242,Chatelaine Village,Village Chatelaine,2.000977789424242,0.32059520248907314
+transit_numS,77,9,13,Orléans Industrial,Orléans Industriel,4,0.4444444444444444
+transit_numS,81,0.155677656,0.13592233009708737,Osgoode - Vernon, ,-0.019755325902912624,-0.12689891671360098
+transit_numS,82,9.655080214,10.746478873239436,Old Ottawa East,Vieil Ottawa-Est,1.0913986592394362,0.11303879771572412
+transit_numS,83,13.17633136,13.901408450704226,Old Ottawa South,Vieil Ottawa-Sud,0.7250770907042252,0.05502875351976767
+transit_numS,85,0,0,Marlborough, ,0,NA
+transit_numS,86,8.288766591,7.888888888888889,Pineview, ,-0.3998777021111106,-0.048243330020331446
+transit_numS,87,8.348934742,7.75,Playfair Park - Lynda Park - Guildwood Estates,Parc Playfair - Parc Lynda - Domaines Guildwood,-0.5989347420000009,-0.07173786363271119
+transit_numS,88,10.47804436,8.44186046511628,Qualicum - Redwood Park,Qualicum - Parc Redwood,-2.0361838948837203,-0.19432861943750354
+transit_numS,90,11.37424111,8.647058823529411,Riverside Park,Parc Riverside,-2.7271822864705886,-0.23976828520655377
+transit_numS,93,8.680103312,5.826666666666667,Rothwell Heights - Beacon Hill North,Rothwell Heights - Beacon Hill Nord,-2.853436645333333,-0.3287330280261223
+transit_numS,97,11.2804151,13.307692307692308,South Keys - Greenboro West,South Keys - Greenboro Ouest,2.0272772076923076,0.17971654320525027
+transit_numS,99,8.331785564,9.8,Tanglewood, ,1.4682144360000002,0.17621846178373393
+transit_numS,100,8.379248658,6.71875,Trend-Arlington, ,-1.6604986579999998,-0.19816796538370493
+transit_numS,106,14.02821343,12.89655172413793,Whitehaven - Queensway Terrace North,Whitehaven - Terrasse Queensway Nord,-1.1316617058620686,-0.08067040835306628
+transit_numS,108,9.601338432,8.642857142857142,Woodvale - Craig Henry - Manordale - Estates of Arlington Woods,Woodvale - Craig Henry - Manordale - Domaines des Bois d'Arlington,-0.958481289142858,-0.0998278829489403
+transit_numS,901,12.39589276,10.571428571428571,Bayshore - Belltown, ,-1.8244641885714294,-0.14718296002517445
+transit_numS,902,9.930631451,8.9375,Beaverbrook, ,-0.993131451,-0.10000687830379539
+transit_numS,903,12.42563267,13.54140127388535,Billings Bridge - Alta Vista, ,1.1157686038853498,0.08979571773268506
+transit_numS,904,10.72303171,8.895833333333334,Blackburn Hamlet, ,-1.8271983766666668,-0.17039941931372565
+transit_numS,905,10.70835112,8.732142857142858,Borden Farm - Fisher Glen, ,-1.976208262857142,-0.18454832501393942
+transit_numS,906,18.0663522,17.547619047619047,Britannia Village, ,-0.5187331523809533,-0.028712666875881743
+transit_numS,907,8.196050157,6.358333333333333,Brookside - Briarbrook - Morgan's Grant, ,-1.8377168236666668,-0.2242198117952131
+transit_numS,908,19.10105053,13.813559322033898,Byward Market,Marché By,-5.2874912079661005,-0.2768167750596543
+transit_numS,909,12.49435077,9.964285714285714,Cardinal Creek, ,-2.530065055714287,-0.20249672050101142
+transit_numS,910,14.64069404,11.071428571428571,Carlingwood West - Glabar Park - McKellar Heights, ,-3.5692654685714285,-0.24379072869221904
+transit_numS,911,0.141004415,0.39805825242718446,Carp, ,0.25705383742718446,1.8230197786869615
+transit_numS,912,9.194300745,10.03225806451613,Carson Grove - Carson Meadows, ,0.8379573195161303,0.09113877637424729
+transit_numS,913,9.35609263,8.774193548387096,Chapel Hill North, ,-0.581899081612903,-0.06219466871747967
+transit_numS,914,7.856519951,7.301075268817204,Chapman Mills, ,-0.5554446821827961,-0.0706985644594586
+transit_numS,915,11.27674386,11.011494252873563,Convent Glen - Orléans Woods, ,-0.26524960712643697,-0.02352182601817445
+transit_numS,916,0.805246987,3,Cumberland, ,2.194753013,2.7255650110243757
+transit_numS,917,5.974597105,9.58904109589041,East Industrial,Industriel-Est,3.6144439908904102,0.6049686576966951
+transit_numS,918,0.060923774,0.5081967213114754,Edwards - Carlsbad Springs, ,0.44727294731147543,7.341517406841464
+transit_numS,919,9.552401357,8.137254901960784,Elmvale - Canterbury, ,-1.415146455039217,-0.14814562350881513
+transit_numS,920,13.95988185,11.31304347826087,Fallingbrook, ,-2.646838371739131,-0.18960320726060664
+transit_numS,921,6.485154257,7,Findlay Creek, ,0.5148457430000004,0.07938835725368937
+transit_numS,922,0,0,Fitzroy, ,0,NA
+transit_numS,923,13.58843355,13.325757575757576,Glebe - Dows Lake,Glebe – Lac Dows,-0.2626759742424234,-0.019330850261428653
+transit_numS,924,8.7859991140000009,9.341463414634147,Glen Cairn - Kanata South Business Park,Glen Cairn - Parc d'Affaires Kanata-Sud,0.5554643006341458,0.06322152932488284
+transit_numS,925,0.342548683,0.8571428571428571,Greely, ,0.514594174142857,1.5022512118163858
+transit_numS,926,0.422447221,2.622950819672131,Greenbelt,Ceinture de Verdure,2.200503598672131,5.208943246124777
+transit_numS,927,6.4270763,6.795918367346939,Hunt Club Woods - Quintarra - Revelstoke,Hunt Club Woods - Quintarra - Revelstoke,0.3688420673469386,0.05738877992578656
+transit_numS,928,6.255358529,7.612612612612613,Kanata Lakes - Arcardia, ,1.357254083612613,0.21697462700504677
+transit_numS,929,12.73452699,12.511363636363637,Katimavik - Hazeldean, ,-0.2231633536363642,-0.017524275052509364
+transit_numS,930,0,0,Kinburn, ,0,NA
+transit_numS,931,14.68080265,12.818181818181818,Laurentian, ,-1.862620831818182,-0.12687459100325021
+transit_numS,932,10.05973813,11.204545454545455,Ledbury - Heron Gate - Ridgemont, ,1.1448073245454555,0.113800907116203
+transit_numS,933,13.82827705,11.746478873239436,Lindenlea - New Edinburgh, ,-2.0817981767605644,-0.15054646137282623
+transit_numS,934,21.57687973,19.64864864864865,Lowertown,Basse-ville,-1.9282310813513526,-0.08936561289120892
+transit_numS,935,14.71459044,11.936170212765957,Manor Park, ,-2.7784202272340437,-0.18882076525087732
+transit_numS,936,1.668957012,2.890909090909091,Navan - Sarsfield, ,1.2219520789090912,0.7321651007923572
+transit_numS,937,11.4953691,10.548022598870057,Old Barrhaven East,Old Barrhaven Est,-0.9473465011299425,-0.0824111425121567
+transit_numS,938,9.819047079,9.984848484848484,Old Barrhaven West,Old Barrhaven Ouest,0.1658014058484838,0.01688569211599803
+transit_numS,939,11.008478,10.27027027027027,Orléans Village - Chateauneuf, ,-0.73820772972973,-0.06705811009748396
+transit_numS,940,14.09132044,13.506410256410257,Overbrook - McArthur, ,-0.5849101835897432,-0.041508543225615785
+transit_numS,941,13.07380167,13.363636363636363,Parkwood Hills - Stewart Farm, ,0.2898346936363634,0.022169121190008335
+transit_numS,942,9.367833958,9.432432432432432,Portobello South, ,0.06459847443243127,0.006895774916811487
+transit_numS,943,13.2705983,12.89795918367347,Queenswood Heights, ,-0.37263911632653013,-0.02808005395857172
+transit_numS,944,3.154769921,3.8492063492063493,Richmond, ,0.6944364282063491,0.2201226858363815
+transit_numS,945,7.833429395,6.710743801652892,Rideau Crest - Davidson Heights, ,-1.1226855933471072,-0.14331980754989715
+transit_numS,946,2.9000431780000002,3.663551401869159,Riverside South - Leitrim,Riverside Sud - Leitrim,0.7635082238691586,0.2632747779968256
+transit_numS,947,8.292722451,10.62962962962963,Riverview, ,2.3369071786296303,0.2818021696056918
+transit_numS,948,4.398033126,3.622950819672131,Rockcliffe Park,Parc Rockcliffe,-0.7750823063278687,-0.17623384911445725
+transit_numS,949,21.46338384,18.761467889908257,Sandy Hill,Côte-de-Sable,-2.701915950091742,-0.12588490101250233
+transit_numS,950,9.364430403,6.849056603773585,Skyline - Fisher Heights, ,-2.515373799226415,-0.26860937515437
+transit_numS,951,5.188707183,5.853035143769968,Stittsville, ,0.6643279607699677,0.12803342669760512
+transit_numS,952,5.543951081,5.377952755905512,Stonebridge - Half Moon Bay - Heart's Desire, ,-0.1659983250944883,-0.029942242034456418
+transit_numS,953,18.97253788,17.622222222222224,Vanier North,Vanier Nord,-1.3503156577777773,-0.07117211552394472
+transit_numS,954,14.36517765,15.288135593220339,Vanier South,Vanier Sud,0.9229579432203394,0.06424967137251793
+transit_numS,955,0.575095387,1.8205128205128205,Vars, ,1.2454174335128205,2.1655841129409383
+transit_numS,956,7,3,Wateridge Village,Village des Riverains,-4,-0.5714285714285714
+transit_numS,957,20.37181275,19.40449438202247,West Centretown,Centre-Ville Ouest,-0.9673183679775299,-0.047483175888583105
+transit_numS,958,17.3683955,17,Westboro, ,-0.3683954999999983,-0.021210681205411194
+transit_numR,0,5.415479537,3.856294830571358,Ottawa,Ottawa,-1.5591847064286424,-0.28791258387662194
+transit_numR,3,8.596939473,2.972972972972973,Beacon Hill South - Cardinal Heights,Beacon Hill Sud - Cardinal Heights,-5.623966500027028,-0.6541824003402551
+transit_numR,5,0,NA,Beechwood Cemetery,Cimetière Beechwood,NA,NA
+transit_numR,6,4.049939099,2.1403508771929824,Bells Corners East,Bells Corners Est,-1.909588221807018,-0.47151035487880005
+transit_numR,7,4.94178555,3.935483870967742,Bells Corners West,Bells Corners Ouest,-1.0063016790322576,-0.2036311913681195
+transit_numR,11,2.139275766,2.0384615384615383,Braemar Park - Bel Air Heights - Copeland Park,Parc Braemar - Hauteurs Bel Air - Parc Copeland,-0.10081422753846159,-0.04712540063358133
+transit_numR,12,2.604089219,2.5,Briar Green - Leslie Park,Briar Green - Parc Leslie,-0.10408921900000001,-0.03997144884305134
+transit_numR,13,4.503401639,3.457516339869281,Bridlewood - Emerald Meadows, ,-1.0458852991307186,-0.23224339798458707
+transit_numR,16,2.911682677,1.875,Carleton Heights - Rideauview,Hauteurs Carleton - Rideauview,-1.036682677,-0.35604246478813667
+transit_numR,17,4,3.2,Carleton University,Université Carleton,-0.7999999999999998,-0.19999999999999996
+transit_numR,18,4.185386057,4.2405063291139244,Carlington, ,0.055120272113924784,0.013169698413300943
+transit_numR,23,6.092615597,5.293103448275862,Centrepointe, ,-0.7995121487241379,-0.13122642254302358
+transit_numR,24,12.61214888,7.816425120772947,Centretown,Centre-Ville,-4.7957237592270525,-0.380246364426603
+transit_numR,28,3.66111845,4.591304347826087,Civic Hospital-Central Park,Hôpital Civique - Parc Central,0.9301858978260871,0.25407151135087885
+transit_numR,29,0,0,Constance Bay,Baie Constance,0,NA
+transit_numR,30,0,0,Corkery, ,0,NA
+transit_numR,31,4.12769523,4.260504201680672,Cityview - Crestview - Meadowlands, ,0.13280897168067263,0.032175091493049174
+transit_numR,32,3.038559682,3.7555555555555555,Crystal Bay - Lakeview Park,Baie Crystal - Parc Lakeview,0.7169958735555557,0.23596570368617026
+transit_numR,35,0.030141167,0.08695652173913043,Dunrobin, ,0.056815354739130436,1.8849752811206824
+transit_numR,38,10.34198501,5.730769230769231,Emerald Woods - Sawmill Creek, ,-4.611215779230769,-0.4458733768006853
+transit_numR,45,4.654609102,1.5555555555555556,Greenboro East,Greenboro Est,-3.099053546444445,-0.6658031810045743
+transit_numR,46,3.478948986,3.076923076923077,Hawthorne Meadows - Sheffield Glen, ,-0.4020259090769227,-0.11555958730488919
+transit_numR,47,13.73147315,12.936708860759493,Hintonburg - Mechanicsville, ,-0.794764289240506,-0.05787902583784363
+transit_numR,48,0.953323376,2.2203389830508473,Hunt Club - Ottawa Airport,Hunt Club - Aéroport d'Ottawa,1.2670156070508474,1.329051231668159
+transit_numR,49,5.124975476,4.586956521739131,Hunt Club East - Western Community,Hunt Club Est - Communauté de l'Ouest,-0.5380189542608695,-0.10497981049477895
+transit_numR,50,4.625097631,1.7391304347826086,Hunt Club Park,Parc Hunt Club,-2.8859671962173916,-0.6239797354490465
+transit_numR,51,2.345733042,2.6842105263157894,Hunt Club South Industrial,Hunt Club Sud Industriel,0.3384774843157894,0.14429497229880833
+transit_numR,52,2.193141415,1.456140350877193,Hunt Club Upper -Blossom Park - Timbermill,Hunt Club Supérieur - Parc Blossom - Timbermill,-0.7370010641228069,-0.33604812671088374
+transit_numR,54,8.080889462,11.785714285714286,Iris - Queensway Terrance South,Iris - Queensway Terrance Sud,3.7048248237142865,0.45846745474443745
+transit_numR,55,14.10231141,15.49367088607595,Island Park - Wellington Village,Island Park - Village Wellington,1.3913594760759498,0.09866180341822063
+transit_numR,60,10.62601626,8.2,Lebreton Development,Développement Lebreton,-2.426016260000001,-0.22830910480839042
+transit_numR,64,0.852978669,0.8790322580645161,Manotick, ,0.02605358906451616,0.03054424455310284
+transit_numR,65,2.992166213,2.326923076923077,Merivale Gardens - Grenfell Glen - Pineglen - Country Place,Merivale Gardens - Grenfell Glen - Pineglen - Country Place,-0.6652431360769229,-0.22232826946132048
+transit_numR,66,0.233688776,0.30851063829787234,Metcalfe, ,0.07482186229787235,0.3201773896829018
+transit_numR,67,0.262857143,0.24193548387096775,Munster - Ashton, ,-0.020921659129032266,-0.07959326838240902
+transit_numR,70,0.178734378,0.2571428571428571,North Gower - Kars, ,0.07840847914285712,0.4386871737839775
+transit_numR,71,3,NA,Notre-Dame Cemetery,Cimetière Notre-Dame,NA,NA
+transit_numR,75,5.30878929,4.337662337662338,Chapel Hill South,Chapel Hill Sud,-0.971126952337662,-0.18292814035150037
+transit_numR,76,5.178303199,3.303030303030303,Chatelaine Village,Village Chatelaine,-1.875272895969697,-0.3621404201151909
+transit_numR,77,8,10,Orléans Industrial,Orléans Industriel,2,0.25
+transit_numR,81,0.077838828,0.06796116504854369,Osgoode - Vernon, ,-0.009877662951456312,-0.12689891671360098
+transit_numR,82,4.484090909,4.070422535211268,Old Ottawa East,Vieil Ottawa-Est,-0.4136683737887319,-0.09225245031461335
+transit_numR,83,2.567202029,2.4507042253521125,Old Ottawa South,Vieil Ottawa-Sud,-0.11649780364788764,-0.045379289332077584
+transit_numR,85,0,0,Marlborough, ,0,NA
+transit_numR,86,2.798478472,1.9444444444444444,Pineview, ,-0.8540340275555558,-0.30517798728864254
+transit_numR,87,2.510317061,2.1136363636363638,Playfair Park - Lynda Park - Guildwood Estates,Parc Playfair - Parc Lynda - Domaines Guildwood,-0.3966806973636361,-0.15802015750377602
+transit_numR,88,5.754187415,4.27906976744186,Qualicum - Redwood Park,Qualicum - Parc Redwood,-1.4751176475581396,-0.2563555096785355
+transit_numR,90,3.577406765,4.0588235294117645,Riverside Park,Parc Riverside,0.4814167644117644,0.13457143568960753
+transit_numR,93,4.68425422,1.52,Rothwell Heights - Beacon Hill North,Rothwell Heights - Beacon Hill Nord,-3.1642542199999997,-0.6755086447891379
+transit_numR,97,8.069551777,7.538461538461538,South Keys - Greenboro West,South Keys - Greenboro Ouest,-0.5310902385384608,-0.06581409391934073
+transit_numR,99,4.590966653,3.9,Tanglewood, ,-0.6909666529999998,-0.15050570069997846
+transit_numR,100,2.432660363,2.1875,Trend-Arlington, ,-0.2451603630000001,-0.1007787057859832
+transit_numR,106,9.950211601,7.103448275862069,Whitehaven - Queensway Terrace North,Whitehaven - Terrasse Queensway Nord,-2.84676332513793,-0.28610078250515086
+transit_numR,108,4.097872849,2.875,Woodvale - Craig Henry - Manordale - Estates of Arlington Woods,Woodvale - Craig Henry - Manordale - Domaines des Bois d'Arlington,-1.2228728489999998,-0.29841649413266114
+transit_numR,901,13.43650884,7.107142857142857,Bayshore - Belltown, ,-6.329365982857143,-0.47105733031000213
+transit_numR,902,6.915300546,5.125,Beaverbrook, ,-1.790300546,-0.25888976684253573
+transit_numR,903,6.714562956,7.318471337579618,Billings Bridge - Alta Vista, ,0.6039083815796182,0.08994008776698977
+transit_numR,904,4.384841435,3.2083333333333335,Blackburn Hamlet, ,-1.1765081016666668,-0.2683125762030359
+transit_numR,905,4.795134443,3.6607142857142856,Borden Farm - Fisher Glen, ,-1.1344201572857147,-0.23657734121339516
+transit_numR,906,8.528459119,6.571428571428571,Britannia Village, ,-1.9570305475714296,-0.22947059020444716
+transit_numR,907,4.743824451,2.675,Brookside - Briarbrook - Morgan's Grant, ,-2.0688244510000002,-0.4361089817655228
+transit_numR,908,34.19843255,7.88135593220339,Byward Market,Marché By,-26.31707661779661,-0.7695404337412127
+transit_numR,909,3.988353902,3.380952380952381,Cardinal Creek, ,-0.6074015210476191,-0.1522937873549866
+transit_numR,910,8.753852786,5.476190476190476,Carlingwood West - Glabar Park - McKellar Heights, ,-3.2776623098095232,-0.3744251119977109
+transit_numR,911,0.071743929,0.13592233009708737,Carp, ,0.06417840109708738,0.8945481797782134
+transit_numR,912,4.792108724,3.596774193548387,Carson Grove - Carson Meadows, ,-1.1953345304516132,-0.24943810737538122
+transit_numR,913,7.398548061,5.032258064516129,Chapel Hill North, ,-2.3662899964838706,-0.3198316719678157
+transit_numR,914,4.026573427,3.956989247311828,Chapman Mills, ,-0.06958417968817177,-0.01728123948307469
+transit_numR,915,6.305938344,5.275862068965517,Convent Glen - Orléans Woods, ,-1.0300762750344834,-0.1633501976774931
+transit_numR,916,0.352871662,0.8115942028985508,Cumberland, ,0.4587225408985508,1.299969904918437
+transit_numR,917,9.620322316,3.7945205479452055,East Industrial,Industriel-Est,-5.825801768054793,-0.605572409810598
+transit_numR,918,0.060923774,0.18032786885245902,Edwards - Carlsbad Springs, ,0.11940409485245902,1.9598932733953582
+transit_numR,919,3.461613998,2.519607843137255,Elmvale - Canterbury, ,-0.942006154862745,-0.2721291730987347
+transit_numR,920,5.340601504,3.208695652173913,Fallingbrook, ,-2.131905851826087,-0.399188340532304
+transit_numR,921,1.869171886,2.2903225806451615,Findlay Creek, ,0.4211506946451615,0.22531405367240878
+transit_numR,922,0,0,Fitzroy, ,0,NA
+transit_numR,923,3.515511298,3.3484848484848486,Glebe - Dows Lake,Glebe – Lac Dows,-0.16702644951515122,-0.04751128224511006
+transit_numR,924,4.526539654,3.9634146341463414,Glen Cairn - Kanata South Business Park,Glen Cairn - Parc d'Affaires Kanata-Sud,-0.5631250198536581,-0.12440518870878275
+transit_numR,925,0.188376551,0.36134453781512604,Greely, ,0.17296798681512604,0.9182033851714698
+transit_numR,926,0.343171047,2.69672131147541,Greenbelt,Ceinture de Verdure,2.35355026447541,6.858242515066866
+transit_numR,927,1.820729237,2.693877551020408,Hunt Club Woods - Quintarra - Revelstoke,Hunt Club Woods - Quintarra - Revelstoke,0.8731483140204082,0.47955967107942266
+transit_numR,928,3.839453102,3,Kanata Lakes - Arcardia, ,-0.8394531019999998,-0.21863871746804836
+transit_numR,929,5.492381854,6.659090909090909,Katimavik - Hazeldean, ,1.1667090550909096,0.21242315012041946
+transit_numR,930,0,0,Kinburn, ,0,NA
+transit_numR,931,5.026789408,4.983471074380165,Laurentian, ,-0.04331833361983506,-0.008617495204970214
+transit_numR,932,5.542553191,4.454545454545454,Ledbury - Heron Gate - Ridgemont, ,-1.0880077364545455,-0.196300820030244
+transit_numR,933,4.121350887,2.492957746478873,Lindenlea - New Edinburgh, ,-1.6283931405211272,-0.3951115023128889
+transit_numR,934,23.59732732,6.864864864864865,Lowertown,Basse-ville,-16.732462455135135,-0.7090829494471382
+transit_numR,935,3.559300341,1.6595744680851063,Manor Park, ,-1.8997258729148938,-0.5337357600963671
+transit_numR,936,0.750880902,0.9090909090909091,Navan - Sarsfield, ,0.15821000709090904,0.2106992023229125
+transit_numR,937,4.359490406,5.11864406779661,Old Barrhaven East,Old Barrhaven Est,0.7591536617966099,0.17413816549562328
+transit_numR,938,3.086114101,3.7045454545454546,Old Barrhaven West,Old Barrhaven Ouest,0.6184313535454544,0.2003916035849299
+transit_numR,939,7.743540573,5.95945945945946,Orléans Village - Chateauneuf, ,-1.78408111354054,-0.23039604386670787
+transit_numR,940,4.868726861,5.128205128205129,Overbrook - McArthur, ,0.2594782672051288,0.053294890967006084
+transit_numR,941,5.208470708,4.636363636363637,Parkwood Hills - Stewart Farm, ,-0.5721070716363634,-0.10984166057757225
+transit_numR,942,4.801225199,3.924324324324324,Portobello South, ,-0.8769008746756759,-0.18264106313078524
+transit_numR,943,6.431105578,5.73469387755102,Queenswood Heights, ,-0.69641170044898,-0.10828802170987777
+transit_numR,944,1.085746352,1.0793650793650793,Richmond, ,-0.0063812726349206095,-0.005877314368283146
+transit_numR,945,3.222334294,2.8016528925619837,Rideau Crest - Davidson Heights, ,-0.42068140143801624,-0.13055175629087484
+transit_numR,946,1.974165227,2.2990654205607477,Riverside South - Leitrim,Riverside Sud - Leitrim,0.3249001935607476,0.16457598843156385
+transit_numR,947,13.40601061,6.851851851851852,Riverview, ,-6.554158758148147,-0.4888970290131784
+transit_numR,948,1.5936853,0.9016393442622951,Rockcliffe Park,Parc Rockcliffe,-0.6920459557377049,-0.43424254194834133
+transit_numR,949,17.34651199,9.440366972477063,Sandy Hill,Côte-de-Sable,-7.906145017522936,-0.4557772203472784
+transit_numR,950,3.878461253,2.339622641509434,Skyline - Fisher Heights, ,-1.5388386114905663,-0.3967652404159692
+transit_numR,951,2.675923793,2.757188498402556,Stittsville, ,0.08126470540255593,0.030368841450245265
+transit_numR,952,2.455631992,2.3464566929133857,Stonebridge - Half Moon Bay - Heart's Desire, ,-0.10917529908661416,-0.0444591451171378
+transit_numR,953,4.944970539,3.966666666666667,Vanier North,Vanier Nord,-0.978303872333333,-0.1978381599278792
+transit_numR,954,3.602093469,3.9322033898305087,Vanier South,Vanier Sud,0.3301099208305085,0.09164390754195292
+transit_numR,955,0.196323274,0.38461538461538464,Vars, ,0.18829211061538464,0.9590921482665609
+transit_numR,956,7,1.02,Wateridge Village,Village des Riverains,-5.98,-0.8542857142857143
+transit_numR,957,6.248605578,7.101123595505618,West Centretown,Centre-Ville Ouest,0.8525180175056173,0.1364333221010381
+transit_numR,958,17.71494457,15.57,Westboro, ,-2.14494457,-0.12108107713937938
+transit_count,0,5829,5699,Ottawa,Ottawa,-130,-0.02230228169497341
+transit_count,3,51,66,Beacon Hill South - Cardinal Heights,Beacon Hill Sud - Cardinal Heights,15,0.29411764705882354
+transit_count,5,6,15,Beechwood Cemetery,Cimetière Beechwood,9,1.5
+transit_count,6,39,39,Bells Corners East,Bells Corners Est,0,0
+transit_count,7,35,42,Bells Corners West,Bells Corners Ouest,7,0.2
+transit_count,11,39,51,Braemar Park - Bel Air Heights - Copeland Park,Parc Braemar - Hauteurs Bel Air - Parc Copeland,12,0.3076923076923077
+transit_count,12,16,29,Briar Green - Leslie Park,Briar Green - Parc Leslie,13,0.8125
+transit_count,13,103,113,Bridlewood - Emerald Meadows, ,10,0.0970873786407767
+transit_count,16,32,32,Carleton Heights - Rideauview,Hauteurs Carleton - Rideauview,0,0
+transit_count,17,9,10,Carleton University,Université Carleton,1,0.1111111111111111
+transit_count,18,83,94,Carlington, ,11,0.13253012048192772
+transit_count,23,42,50,Centrepointe, ,8,0.19047619047619047
+transit_count,24,102,95,Centretown,Centre-Ville,-7,-0.06862745098039216
+transit_count,28,95,133,Civic Hospital-Central Park,Hôpital Civique - Parc Central,38,0.4
+transit_count,29,0,0,Constance Bay,Baie Constance,0,NA
+transit_count,30,0,0,Corkery, ,0,NA
+transit_count,31,51,73,Cityview - Crestview - Meadowlands, ,22,0.43137254901960786
+transit_count,32,45,47,Crystal Bay - Lakeview Park,Baie Crystal - Parc Lakeview,2,0.044444444444444446
+transit_count,35,4,4,Dunrobin, ,0,0
+transit_count,38,21,29,Emerald Woods - Sawmill Creek, ,8,0.38095238095238093
+transit_count,45,43,60,Greenboro East,Greenboro Est,17,0.3953488372093023
+transit_count,46,26,36,Hawthorne Meadows - Sheffield Glen, ,10,0.38461538461538464
+transit_count,47,39,51,Hintonburg - Mechanicsville, ,12,0.3076923076923077
+transit_count,48,49,65,Hunt Club - Ottawa Airport,Hunt Club - Aéroport d'Ottawa,16,0.32653061224489793
+transit_count,49,63,74,Hunt Club East - Western Community,Hunt Club Est - Communauté de l'Ouest,11,0.1746031746031746
+transit_count,50,32,38,Hunt Club Park,Parc Hunt Club,6,0.1875
+transit_count,51,69,80,Hunt Club South Industrial,Hunt Club Sud Industriel,11,0.15942028985507245
+transit_count,52,35,45,Hunt Club Upper -Blossom Park - Timbermill,Hunt Club Supérieur - Parc Blossom - Timbermill,10,0.2857142857142857
+transit_count,54,39,58,Iris - Queensway Terrance South,Iris - Queensway Terrance Sud,19,0.48717948717948717
+transit_count,55,51,58,Island Park - Wellington Village,Island Park - Village Wellington,7,0.13725490196078433
+transit_count,60,15,24,Lebreton Development,Développement Lebreton,9,0.6
+transit_count,64,68,72,Manotick, ,4,0.058823529411764705
+transit_count,65,76,73,Merivale Gardens - Grenfell Glen - Pineglen - Country Place,Merivale Gardens - Grenfell Glen - Pineglen - Country Place,-3,-0.039473684210526314
+transit_count,66,12,12,Metcalfe, ,0,0
+transit_count,67,22,22,Munster - Ashton, ,0,0
+transit_count,70,18,20,North Gower - Kars, ,2,0.1111111111111111
+transit_count,71,1,5,Notre-Dame Cemetery,Cimetière Notre-Dame,4,4
+transit_count,75,69,75,Chapel Hill South,Chapel Hill Sud,6,0.08695652173913043
+transit_count,76,28,32,Chatelaine Village,Village Chatelaine,4,0.14285714285714285
+transit_count,77,17,25,Orléans Industrial,Orléans Industriel,8,0.47058823529411764
+transit_count,81,3,4,Osgoode - Vernon, ,1,0.3333333333333333
+transit_count,82,37,39,Old Ottawa East,Vieil Ottawa-Est,2,0.05405405405405406
+transit_count,83,31,34,Old Ottawa South,Vieil Ottawa-Sud,3,0.0967741935483871
+transit_count,85,0,0,Marlborough, ,0,NA
+transit_count,86,23,37,Pineview, ,14,0.6086956521739131
+transit_count,87,31,41,Playfair Park - Lynda Park - Guildwood Estates,Parc Playfair - Parc Lynda - Domaines Guildwood,10,0.3225806451612903
+transit_count,88,36,44,Qualicum - Redwood Park,Qualicum - Parc Redwood,8,0.2222222222222222
+transit_count,90,48,58,Riverside Park,Parc Riverside,10,0.20833333333333334
+transit_count,93,86,81,Rothwell Heights - Beacon Hill North,Rothwell Heights - Beacon Hill Nord,-5,-0.05813953488372093
+transit_count,97,53,71,South Keys - Greenboro West,South Keys - Greenboro Ouest,18,0.33962264150943394
+transit_count,99,29,41,Tanglewood, ,12,0.41379310344827586
+transit_count,100,28,33,Trend-Arlington, ,5,0.17857142857142858
+transit_count,106,76,90,Whitehaven - Queensway Terrace North,Whitehaven - Terrasse Queensway Nord,14,0.18421052631578946
+transit_count,108,51,60,Woodvale - Craig Henry - Manordale - Estates of Arlington Woods,Woodvale - Craig Henry - Manordale - Domaines des Bois d'Arlington,9,0.17647058823529413
+transit_count,901,33,38,Bayshore - Belltown, ,5,0.15151515151515152
+transit_count,902,48,48,Beaverbrook, ,0,0
+transit_count,903,124,141,Billings Bridge - Alta Vista, ,17,0.13709677419354838
+transit_count,904,56,59,Blackburn Hamlet, ,3,0.05357142857142857
+transit_count,905,44,63,Borden Farm - Fisher Glen, ,19,0.4318181818181818
+transit_count,906,45,58,Britannia Village, ,13,0.28888888888888886
+transit_count,907,116,102,Brookside - Briarbrook - Morgan's Grant, ,-14,-0.1206896551724138
+transit_count,908,32,39,Byward Market,Marché By,7,0.21875
+transit_count,909,75,95,Cardinal Creek, ,20,0.26666666666666666
+transit_count,910,59,86,Carlingwood West - Glabar Park - McKellar Heights, ,27,0.4576271186440678
+transit_count,911,11,15,Carp, ,4,0.36363636363636365
+transit_count,912,77,87,Carson Grove - Carson Meadows, ,10,0.12987012987012986
+transit_count,913,54,72,Chapel Hill North, ,18,0.3333333333333333
+transit_count,914,44,57,Chapman Mills, ,13,0.29545454545454547
+transit_count,915,127,137,Convent Glen - Orléans Woods, ,10,0.07874015748031496
+transit_count,916,61,65,Cumberland, ,4,0.06557377049180328
+transit_count,917,184,230,East Industrial,Industriel-Est,46,0.25
+transit_count,918,29,36,Edwards - Carlsbad Springs, ,7,0.2413793103448276
+transit_count,919,60,83,Elmvale - Canterbury, ,23,0.38333333333333336
+transit_count,920,138,153,Fallingbrook, ,15,0.10869565217391304
+transit_count,921,42,60,Findlay Creek, ,18,0.42857142857142855
+transit_count,922,0,0,Fitzroy, ,0,NA
+transit_count,923,52,60,Glebe - Dows Lake,Glebe – Lac Dows,8,0.15384615384615385
+transit_count,924,74,96,Glen Cairn - Kanata South Business Park,Glen Cairn - Parc d'Affaires Kanata-Sud,22,0.2972972972972973
+transit_count,925,18,23,Greely, ,5,0.2777777777777778
+transit_count,926,125,206,Greenbelt,Ceinture de Verdure,81,0.648
+transit_count,927,50,66,Hunt Club Woods - Quintarra - Revelstoke,Hunt Club Woods - Quintarra - Revelstoke,16,0.32
+transit_count,928,103,102,Kanata Lakes - Arcardia, ,-1,-0.009708737864077669
+transit_count,929,95,105,Katimavik - Hazeldean, ,10,0.10526315789473684
+transit_count,930,0,0,Kinburn, ,0,NA
+transit_count,931,61,87,Laurentian, ,26,0.4262295081967213
+transit_count,932,48,57,Ledbury - Heron Gate - Ridgemont, ,9,0.1875
+transit_count,933,28,32,Lindenlea - New Edinburgh, ,4,0.14285714285714285
+transit_count,934,27,37,Lowertown,Basse-ville,10,0.37037037037037035
+transit_count,935,37,48,Manor Park, ,11,0.2972972972972973
+transit_count,936,90,101,Navan - Sarsfield, ,11,0.12222222222222222
+transit_count,937,116,136,Old Barrhaven East,Old Barrhaven Est,20,0.1724137931034483
+transit_count,938,103,111,Old Barrhaven West,Old Barrhaven Ouest,8,0.07766990291262135
+transit_count,939,68,84,Orléans Village - Chateauneuf, ,16,0.23529411764705882
+transit_count,940,136,151,Overbrook - McArthur, ,15,0.11029411764705882
+transit_count,941,21,33,Parkwood Hills - Stewart Farm, ,12,0.5714285714285714
+transit_count,942,110,140,Portobello South, ,30,0.2727272727272727
+transit_count,943,108,132,Queenswood Heights, ,24,0.2222222222222222
+transit_count,944,78,89,Richmond, ,11,0.14102564102564102
+transit_count,945,50,57,Rideau Crest - Davidson Heights, ,7,0.14
+transit_count,946,56,66,Riverside South - Leitrim,Riverside Sud - Leitrim,10,0.17857142857142858
+transit_count,947,37,45,Riverview, ,8,0.21621621621621623
+transit_count,948,7,22,Rockcliffe Park,Parc Rockcliffe,15,2.142857142857143
+transit_count,949,64,72,Sandy Hill,Côte-de-Sable,8,0.125
+transit_count,950,28,47,Skyline - Fisher Heights, ,19,0.6785714285714286
+transit_count,951,198,213,Stittsville, ,15,0.07575757575757576
+transit_count,952,55,72,Stonebridge - Half Moon Bay - Heart's Desire, ,17,0.3090909090909091
+transit_count,953,51,61,Vanier North,Vanier Nord,10,0.19607843137254902
+transit_count,954,34,57,Vanier South,Vanier Sud,23,0.6764705882352942
+transit_count,955,18,18,Vars, ,0,0
+transit_count,956,11,32,Wateridge Village,Village des Riverains,21,1.9090909090909092
+transit_count,957,53,71,West Centretown,Centre-Ville Ouest,18,0.33962264150943394
+transit_count,958,83,92,Westboro, ,9,0.10843373493975904
+transit_count1000,0,6.254694508,6.215813841883395,Ottawa,Ottawa,-0.038880666116605234,-0.0062162374304413
+transit_count1000,3,6.96816505,9.09090909090909,Beacon Hill South - Cardinal Heights,Beacon Hill Sud - Cardinal Heights,2.1227440409090903,0.3046345810808673
+transit_count1000,5,10.71428571,NA,Beechwood Cemetery,Cimetière Beechwood,NA,NA
+transit_count1000,6,7.917174178,8.51528384279476,Bells Corners East,Bells Corners Est,0.5981096647947606,0.07554585150554971
+transit_count1000,7,8.053382421,10.144927536231883,Bells Corners West,Bells Corners Ouest,2.0915451152318827,0.2597101448675739
+transit_count1000,11,5.71763671,7.533234859675036,Braemar Park - Bel Air Heights - Copeland Park,Parc Braemar - Hauteurs Bel Air - Parc Copeland,1.8155981496750364,0.31754346100716785
+transit_count1000,12,2.973977695,5.598455598455598,Briar Green - Leslie Park,Briar Green - Parc Leslie,2.6244779034555985,0.8824806950865846
+transit_count1000,13,4.221311475,4.6617161716171625,Bridlewood - Emerald Meadows, ,0.4404046966171622,0.10432887959710724
+transit_count1000,16,4.958165479,5.011746280344558,Carleton Heights - Rideauview,Hauteurs Carleton - Rideauview,0.053580801344558004,0.010806577870685466
+transit_count1000,17,1800,NA,Carleton University,Université Carleton,NA,NA
+transit_count1000,18,8.18459718,9.572301425661914,Carlington, ,1.3877042456619133,0.1695507078898064
+transit_count1000,23,5.797101449,7.173601147776184,Centrepointe, ,1.3764996987761835,0.23744619805017034
+transit_count1000,24,3.554750122,3.3946757191352512,Centretown,Centre-Ville,-0.16007440286474894,-0.04503112662520613
+transit_count1000,28,8.366358432,12.179487179487179,Civic Hospital-Central Park,Hôpital Civique - Parc Central,3.8131287474871787,0.4557692308403335
+transit_count1000,29,0,0,Constance Bay,Baie Constance,0,NA
+transit_count1000,30,0,0,Corkery, ,0,NA
+transit_count1000,31,5.697687409,8.444187391555813,Cityview - Crestview - Meadowlands, ,2.7464999825558127,0.48203767342825327
+transit_count1000,32,12.75871846,12.25554106910039,Crystal Bay - Lakeview Park,Baie Crystal - Parc Lakeview,-0.5031773908996104,-0.03943792571935242
+transit_count1000,35,0.763067531,0.6779661016949153,Dunrobin, ,-0.08510142930508469,-0.11152542317396111
+transit_count1000,38,3.838420764,5.16934046345811,Emerald Woods - Sawmill Creek, ,1.3309196994581103,0.3467362702756863
+transit_count1000,45,4.181252431,5.633802816901409,Greenboro East,Greenboro Est,1.452550385901409,0.347396003917901
+transit_count1000,46,3.995082975,5.421686746987952,Hawthorne Meadows - Sheffield Glen, ,1.4266037719879519,0.357089897985899
+transit_count1000,47,3.900390039,5.214723926380368,Hintonburg - Mechanicsville, ,1.3143338873803683,0.3369749882033191
+transit_count1000,48,18.29723674,32.25806451612903,Hunt Club - Ottawa Airport,Hunt Club - Aéroport d'Ottawa,13.960827776129033,0.7630019753534125
+transit_count1000,49,6.180105945,7.044264635887672,Hunt Club East - Western Community,Hunt Club Est - Communauté de l'Ouest,0.8641586908876722,0.13982910626100475
+transit_count1000,50,4.16558188,4.308390022675737,Hunt Club Park,Parc Hunt Club,0.1428081426757366,0.03428287974877992
+transit_count1000,51,50.32822757,96.96969696969697,Hunt Club South Industrial,Hunt Club Sud Industriel,46.641469399696966,0.9267457180927893
+transit_count1000,52,4.014221814,5.379557680812911,Hunt Club Upper -Blossom Park - Timbermill,Hunt Club Supérieur - Parc Blossom - Timbermill,1.3653358668129112,0.34012466925748
+transit_count1000,54,6.284241057,9.855564995751912,Iris - Queensway Terrance South,Iris - Queensway Terrance Sud,3.5713239387519122,0.5682983683087433
+transit_count1000,55,9.138147285,10.069444444444445,Island Park - Wellington Village,Island Park - Village Wellington,0.9312971594444441,0.10191312641383456
+transit_count1000,60,24.3902439,40.67796610169491,Lebreton Development,Développement Lebreton,16.287722201694912,0.667796610336271
+transit_count1000,64,5.77887312,7.899067471201317,Manotick, ,2.1201943512013166,0.36688716072750815
+transit_count1000,65,25.88555858,24.579124579124578,Merivale Gardens - Grenfell Glen - Pineglen - Country Place,Merivale Gardens - Grenfell Glen - Pineglen - Country Place,-1.3064340008754236,-0.050469608250401664
+transit_count1000,66,2.16880535,2.2966507177033493,Metcalfe, ,0.1278453677033493,0.058947368284271946
+transit_count1000,67,5.986394558,6.102635228848821,Munster - Ashton, ,0.11624067084882128,0.019417475698036223
+transit_count1000,70,3.570720095,3.8095238095238093,North Gower - Kars, ,0.23880371452380933,0.0668783069438013
+transit_count1000,71,2.34741784,NA,Notre-Dame Cemetery,Cimetière Notre-Dame,NA,NA
+transit_count1000,75,6.693830035,7.458975634012929,Chapel Hill South,Chapel Hill Sud,0.7651455990129286,0.11430609905124794
+transit_count1000,76,7.788595271,7.600950118764845,Chatelaine Village,Village Chatelaine,-0.187645152235155,-0.024092297225127565
+transit_count1000,77,128.7878788,147.05882352941177,Orléans Industrial,Orléans Industriel,18.27094472941178,0.1418685120032568
+transit_count1000,81,0.549450549,0.746268656716418,Osgoode - Vernon, ,0.19681810771641794,0.358208956337612
+transit_count1000,82,4.946524064,5.306122448979592,Old Ottawa East,Vieil Ottawa-Est,0.3595983849795923,0.07269718702001088
+transit_count1000,83,5.240912933,5.475040257648953,Old Ottawa South,Vieil Ottawa-Sud,0.23412732464895303,0.04467300404376953
+transit_count1000,85,0,0,Marlborough, ,0,NA
+transit_count1000,86,3.722887666,6.030969845150775,Pineview, ,2.308082179150775,0.6199709435849453
+transit_count1000,87,5.20046972,6.88497061293031,Playfair Park - Lynda Park - Guildwood Estates,Parc Playfair - Parc Lynda - Domaines Guildwood,1.68450089293031,0.3239132200793412
+transit_count1000,88,8.148483477,10.280373831775702,Qualicum - Redwood Park,Qualicum - Parc Redwood,2.1318903547757024,0.2616303218621232
+transit_count1000,90,10.40763226,13.019079685746354,Riverside Park,Parc Riverside,2.611447425746354,0.2509165735787012
+transit_count1000,93,7.932847523,7.860262008733625,Rothwell Heights - Beacon Hill North,Rothwell Heights - Beacon Hill Nord,-0.07258551426637538,-0.00914999488593793
+transit_count1000,97,11.70236255,16.78486997635934,South Keys - Greenboro West,South Keys - Greenboro Ouest,5.082507426359339,0.43431464412793624
+transit_count1000,99,6.120726045,8.677248677248677,Tanglewood, ,2.5565226322486776,0.41768290452030477
+transit_count1000,100,7.155635063,6.748466257668712,Trend-Arlington, ,-0.4071688053312883,-0.05690184054196062
+transit_count1000,106,6.306530578,7.856831078131821,Whitehaven - Queensway Terrace North,Whitehaven - Terrasse Queensway Nord,1.5503005001318204,0.24582462273947614
+transit_count1000,108,6.094646272,7.303712720632989,Woodvale - Craig Henry - Manordale - Estates of Arlington Woods,Woodvale - Craig Henry - Manordale - Domaines des Bois d'Arlington,1.2090664486329885,0.19838172630094658
+transit_count1000,901,3.76497433,4.125950054288817,Bayshore - Belltown, ,0.36097572428881675,0.09587734009565392
+transit_count1000,902,7.285974499,7.339449541284404,Beaverbrook, ,0.05347504228440414,0.007339449553624377
+transit_count1000,903,9.625834498,11.15065243179122,Billings Bridge - Alta Vista, ,1.5248179337912209,0.15840890824666046
+transit_count1000,904,6.856862985,7.279457125231339,Blackburn Hamlet, ,0.4225941402313387,0.06163082756003745
+transit_count1000,905,6.259780908,8.671713695801788,Borden Farm - Fisher Glen, ,2.4119327878017884,0.38530626283091446
+transit_count1000,906,7.075471698,9.098039215686274,Britannia Village, ,2.022567517686274,0.2858562091709004
+transit_count1000,907,7.272727273,6.461830852074755,Brookside - Briarbrook - Morgan's Grant, ,-0.8108964209252454,-0.11149825787304006
+transit_count1000,908,5.336001334,7.624633431085044,Byward Market,Marché By,2.2886320970850447,0.428903958944371
+transit_count1000,909,6.518338258,8.388520971302428,Cardinal Creek, ,1.8701827133024285,0.2869109640033088
+transit_count1000,910,6.358443798,9.476584022038567,Carlingwood West - Glabar Park - McKellar Heights, ,3.1181402240385676,0.490393612509299
+transit_count1000,911,1.517660044,2.2539444027047333,Carp, ,0.7362843587047332,0.4851444574927039
+transit_count1000,912,6.751424814,7.785234899328859,Carson Grove - Carson Meadows, ,1.0338100853288594,0.15312472756641135
+transit_count1000,913,4.962323102,6.789250353606789,Chapel Hill North, ,1.8269272516067891,0.36815967321242543
+transit_count1000,914,3.619909502,4.7420965058236275,Chapman Mills, ,1.1221870038236275,0.3100041598287524
+transit_count1000,915,9.02116778,9.266148123097734,Convent Glen - Orléans Woods, ,0.2449803430977333,0.027156167479875128
+transit_count1000,916,14.41739541,15.439429928741092,Cumberland, ,1.0220345187410924,0.07088898443003114
+transit_count1000,917,50.25949194,130.31161473087818,East Industrial,Industriel-Est,80.05212279087817,1.592776204073944
+transit_count1000,918,8.21762539,10.126582278481013,Edwards - Carlsbad Springs, ,1.908956888481013,0.23230030548776487
+transit_count1000,919,5.356186395,7.133648474430598,Elmvale - Canterbury, ,1.777462079430598,0.33185217024744673
+transit_count1000,920,7.411385607,8.138297872340425,Fallingbrook, ,0.7269122653404256,0.0980804810174581
+transit_count1000,921,4.871259569,6.868918145392101,Findlay Creek, ,1.9976585763921006,0.4100907677153799
+transit_count1000,922,0,0,Fitzroy, ,0,NA
+transit_count1000,923,3.983148219,4.733727810650888,Glebe - Dows Lake,Glebe – Lac Dows,0.750579591650888,0.18843878017658272
+transit_count1000,924,6.557377049,8.656447249774573,Glen Cairn - Kanata South Business Park,Glen Cairn - Parc d'Affaires Kanata-Sud,2.0990702007745723,0.3201082056269252
+transit_count1000,925,1.816163858,2.33739837398374,Greely, ,0.5212345159837399,0.286997516048874
+transit_count1000,926,26.92804826,126.38036809815951,Greenbelt,Ceinture de Verdure,99.45231983815951,3.6932613488326953
+transit_count1000,927,8.440243079,10.927152317880795,Hunt Club Woods - Quintarra - Revelstoke,Hunt Club Woods - Quintarra - Revelstoke,2.486909238880795,0.29464900662262017
+transit_count1000,928,6.149620873,6.191198786039453,Kanata Lakes - Arcardia, ,0.04157791303945313,0.006761053062962233
+transit_count1000,929,8.177670655,9.234828496042217,Katimavik - Hazeldean, ,1.0571578410422173,0.12927371199472906
+transit_count1000,930,0,0,Kinburn, ,0,NA
+transit_count1000,931,6.309474555,8.987603305785123,Laurentian, ,2.678128750785123,0.4244614551401615
+transit_count1000,932,3.570897188,4.226918798665183,Ledbury - Heron Gate - Ridgemont, ,0.6560216106651833,0.18371338521583425
+transit_count1000,933,5.342491891,6.517311608961304,Lindenlea - New Edinburgh, ,1.174819717961304,0.2199010764883731
+transit_count1000,934,4.347126067,5.9629331184528604,Lowertown,Basse-ville,1.6158070514528609,0.3716954665103484
+transit_count1000,935,5.261660978,6.862044317369549,Manor Park, ,1.6003833393695492,0.3041593417099761
+transit_count1000,936,15.85623679,24.36670687575392,Navan - Sarsfield, ,8.51047008575392,0.5367269799553693
+transit_count1000,937,4.533197858,5.378683013644453,Old Barrhaven East,Old Barrhaven Est,0.8454851556444529,0.18650965215479745
+transit_count1000,938,5.835363435,6.175243393602225,Old Barrhaven West,Old Barrhaven Ouest,0.339879958602225,0.05824486553205147
+transit_count1000,939,6.863140896,8.100289296046286,Orléans Village - Chateauneuf, ,1.2371484000462862,0.18025979923672053
+transit_count1000,940,6.993006993,7.885117493472585,Overbrook - McArthur, ,0.8921105004725849,0.12757180156770723
+transit_count1000,941,5.325893989,6.185567010309278,Parkwood Hills - Stewart Farm, ,0.8596730213092778,0.16141384396400493
+transit_count1000,942,5.028801317,6.077707835901888,Portobello South, ,1.0489065189018882,0.20857982902526515
+transit_count1000,943,8.402707539,10.784313725490195,Queenswood Heights, ,2.3816061864901954,0.2834331881047033
+transit_count1000,944,8.754208754,11.81154611811546,Richmond, ,3.05733736411546,0.34924199890920943
+transit_count1000,945,3.602305476,3.9391845196959228,Rideau Crest - Davidson Heights, ,0.3368790436959226,0.09351762251712008
+transit_count1000,946,4.029936672,4.70756062767475,Riverside South - Leitrim,Riverside Sud - Leitrim,0.6776239556747505,0.1681475444472569
+transit_count1000,947,5.450795522,7.431874483897605,Riverview, ,1.9810789618976052,0.3634476754634725
+transit_count1000,948,3.623188406,11,Rockcliffe Park,Parc Rockcliffe,7.376811593999999,2.0359999998299836
+transit_count1000,949,5.050505051,6.2717770034843205,Sandy Hill,Côte-de-Sable,1.2212719524843205,0.2418118465681979
+transit_count1000,950,5.203493774,11.338962605548854,Skyline - Fisher Heights, ,6.135468831548854,1.1791056351802707
+transit_count1000,951,6.515086703,6.784519827998088,Stittsville, ,0.2694331249980886,0.04135526314239576
+transit_count1000,952,3.82183309,4.332129963898917,Stonebridge - Half Moon Bay - Heart's Desire, ,0.5102968738989171,0.13352149659129073
+transit_count1000,953,5.366161616,5.910852713178294,Vanier North,Vanier Nord,0.5446910971782941,0.10150478799487095
+transit_count1000,954,5.012531328,8.715596330275229,Vanier South,Vanier Sud,3.7030650022752294,0.738761468001189
+transit_count1000,955,6.243496358,7.086614173228346,Vars, ,0.8431178152283465,0.1350393700715516
+transit_count1000,956,30.05464481,125.49019607843137,Wateridge Village,Village des Riverains,95.43555126843137,3.175401069344109
+transit_count1000,957,5.278884462,7.505285412262157,West Centretown,Centre-Ville Ouest,2.226400950262157,0.42175595360892687
+transit_count1000,958,6.715753702,8.041958041958042,Westboro, ,1.3262043399580419,0.1974766197222344
+transit_countsqkm,0,2.084005628,2.0375402216660707,Ottawa,Ottawa,-0.04646540633392915,-0.02229620002443158
+transit_countsqkm,3,22.84901268,29.569310532659603,Beacon Hill South - Cardinal Heights,Beacon Hill Sud - Cardinal Heights,6.720297852659602,0.29411764730394474
+transit_countsqkm,5,9.017932059,22.544830158048562,Beechwood Cemetery,Cimetière Beechwood,13.526898099048562,1.5000000011697319
+transit_countsqkm,6,11.62444972,11.624449725375655,Bells Corners East,Bells Corners Est,5.375655476314023e-9,4.624438666602124e-10
+transit_countsqkm,7,25.53440294,30.641283521752946,Bells Corners West,Bells Corners Ouest,5.106880581752947,0.19999999975534757
+transit_countsqkm,11,16.53480093,21.6224319941635,Braemar Park - Bel Air Heights - Copeland Park,Parc Braemar - Hauteurs Bel Air - Parc Copeland,5.087631064163499,0.30769230822324145
+transit_countsqkm,12,8.410303692,15.243675442555924,Briar Green - Leslie Park,Briar Green - Parc Leslie,6.833371750555925,0.8125000000958259
+transit_countsqkm,13,15.8219078,17.35801534768989,Bridlewood - Emerald Meadows, ,1.5361075476898893,0.09708737828000043
+transit_countsqkm,16,14.99992569,14.999925682399459,Carleton Heights - Rideauview,Hauteurs Carleton - Rideauview,-7.600540641305997e-9,-5.067052196380579e-10
+transit_countsqkm,17,9.870036953,10.966707730370537,Carleton University,Université Carleton,1.0966707773705373,0.11111111159894939
+transit_countsqkm,18,30.58718896,34.64091280093578,Carlington, ,4.053723840935781,0.13253012057554509
+transit_countsqkm,23,19.84022451,23.619314891075923,Centrepointe, ,3.7790903810759247,0.19047619038641236
+transit_countsqkm,24,30.45071231,28.36095753837531,Centretown,Centre-Ville,-2.0897547716246905,-0.06862745115287225
+transit_countsqkm,28,12.65199981,17.712799739533093,Civic Hospital-Central Park,Hôpital Civique - Parc Central,5.060799929533093,0.4000000004373296
+transit_countsqkm,29,0,0,Constance Bay,Baie Constance,0,NA
+transit_countsqkm,30,0,0,Corkery, ,0,NA
+transit_countsqkm,31,12.90608101,18.473410078306532,Cityview - Crestview - Meadowlands, ,5.567329068306533,0.43137254942013825
+transit_countsqkm,32,8.158562189,8.521164953908311,Crystal Bay - Lakeview Park,Baie Crystal - Parc Lakeview,0.36260276490831167,0.04444444456122435
+transit_countsqkm,35,0.031535425,0.031535424814109744,Dunrobin, ,-1.8589025457815822e-10,-5.894648782382296e-9
+transit_countsqkm,38,11.58653943,16.000459215386442,Emerald Woods - Sawmill Creek, ,4.413919785386442,0.3809523811706773
+transit_countsqkm,45,19.78370774,27.60517359269108,Greenboro East,Greenboro Est,7.82146585269108,0.39534883731006226
+transit_countsqkm,46,22.46070504,31.09943774134362,Hawthorne Meadows - Sheffield Glen, ,8.63873270134362,0.3846153843327271
+transit_countsqkm,47,21.27850624,27.825738924609524,Hintonburg - Mechanicsville, ,6.547232684609526,0.30769230747512877
+transit_countsqkm,48,3.202204543,4.247822352890524,Hunt Club - Ottawa Airport,Hunt Club - Aéroport d'Ottawa,1.045617809890524,0.3265306122234566
+transit_countsqkm,49,18.39439652,21.606116548410537,Hunt Club East - Western Community,Hunt Club Est - Communauté de l'Ouest,3.211720028410536,0.1746031746634619
+transit_countsqkm,50,17.57796286,20.873830888386006,Hunt Club Park,Parc Hunt Club,3.295868028386007,0.18749999955262206
+transit_countsqkm,51,15.0757394,17.479118145454027,Hunt Club South Industrial,Hunt Club Sud Industriel,2.4033787454540274,0.15942028988999554
+transit_countsqkm,52,8.023372102,10.315764130204462,Hunt Club Upper -Blossom Park - Timbermill,Hunt Club Supérieur - Parc Blossom - Timbermill,2.2923920282044623,0.2857142855973281
+transit_countsqkm,54,18.09579086,26.9116889706306,Iris - Queensway Terrance South,Iris - Queensway Terrance Sud,8.815898110630599,0.4871794871434869
+transit_countsqkm,55,20.39653086,23.19605471295178,Island Park - Wellington Village,Island Park - Village Wellington,2.7995238529517827,0.13725490242274382
+transit_countsqkm,60,17.23884478,27.58215165448244,Lebreton Development,Développement Lebreton,10.34330687448244,0.6000000003760367
+transit_countsqkm,64,1.161587638,1.2299163222740392,Manotick, ,0.06832868427403915,0.058823529141276164
+transit_countsqkm,65,11.701685640000001,11.23977699728763,Merivale Gardens - Grenfell Glen - Pineglen - Country Place,Merivale Gardens - Grenfell Glen - Pineglen - Country Place,-0.46190864271237153,-0.039473684127475116
+transit_countsqkm,66,0.0857912,0.08579119985357272,Metcalfe, ,-1.4642727308444847e-10,-1.7067866294497393e-9
+transit_countsqkm,67,0.161471703,0.16147170336621716,Munster - Ashton, ,3.6621716770213197e-10,2.2679959454080445e-9
+transit_countsqkm,70,0.123762659,0.13751406518783166,North Gower - Kars, ,0.01375140618783166,0.11111110813990883
+transit_countsqkm,71,4.878879036,24.39439523352252,Notre-Dame Cemetery,Cimetière Notre-Dame,19.51551619752252,4.00000001097025
+transit_countsqkm,75,6.922399676,7.524347473922108,Chapel Hill South,Chapel Hill Sud,0.601947797922108,0.08695652174043987
+transit_countsqkm,76,7.366994472,8.419422254772059,Chatelaine Village,Village Chatelaine,1.0524277827720585,0.14285714300072552
+transit_countsqkm,77,32.3559227,47.58223926760991,Orléans Industrial,Orléans Industriel,15.226316567609906,0.4705882353838701
+transit_countsqkm,81,0.022077281,0.029436374532277813,Osgoode - Vernon, ,0.007359093532277813,0.333333327246132
+transit_countsqkm,82,21.538206979999998,22.70243438541541,Old Ottawa East,Vieil Ottawa-Est,1.16422740541541,0.05405405410471221
+transit_countsqkm,83,21.46824287,23.545814773252502,Old Ottawa South,Vieil Ottawa-Sud,2.077571903252501,0.09677419413564241
+transit_countsqkm,85,0,0,Marlborough, ,0,NA
+transit_countsqkm,86,12.65464209,20.35746770239469,Pineview, ,7.70282561239469,0.6086956515729234
+transit_countsqkm,87,15.00077475,19.839734354899385,Playfair Park - Lynda Park - Guildwood Estates,Parc Playfair - Parc Lynda - Domaines Guildwood,4.838959604899385,0.32258064570294176
+transit_countsqkm,88,19.56823828,23.916735676323803,Qualicum - Redwood Park,Qualicum - Parc Redwood,4.348497396323804,0.2222222222614822
+transit_countsqkm,90,14.91031979,18.01663641793523,Riverside Park,Parc Riverside,3.1063166279352306,0.20833333366991658
+transit_countsqkm,93,14.4597674,13.619083250588673,Rothwell Heights - Beacon Hill North,Rothwell Heights - Beacon Hill Nord,-0.8406841494113273,-0.058139534762594265
+transit_countsqkm,97,16.70602111,22.37976412700081,South Keys - Greenboro West,South Keys - Greenboro Ouest,5.673743017000813,0.3396226414202594
+transit_countsqkm,99,13.23368984,18.70969942437552,Tanglewood, ,5.476009584375518,0.41379310310143386
+transit_countsqkm,100,16.17909616,19.06822047408732,Trend-Arlington, ,2.8891243140873186,0.1785714285591661
+transit_countsqkm,106,23.80649485,28.191901796895625,Whitehaven - Queensway Terrace North,Whitehaven - Terrasse Queensway Nord,4.385406946895625,0.1842105263511997
+transit_countsqkm,108,15.81474157,18.605578314815446,Woodvale - Craig Henry - Manordale - Estates of Arlington Woods,Woodvale - Craig Henry - Manordale - Domaines des Bois d'Arlington,2.7908367448154454,0.17647058805624513
+transit_countsqkm,901,20.52325062,23.632834036416053,Bayshore - Belltown, ,3.1095834164160543,0.1515151509861577
+transit_countsqkm,902,16.90623151,16.906231512815708,Beaverbrook, ,2.815706778847016e-9,1.6654845742420664e-10
+transit_countsqkm,903,19.97966981,22.718818086107493,Billings Bridge - Alta Vista, ,2.7391482761074926,0.13709677397854317
+transit_countsqkm,904,18.95380946,19.96919211256146,Blackburn Hamlet, ,1.0153826525614598,0.05357142872541359
+transit_countsqkm,905,17.03880573,24.396471840948795,Borden Farm - Fisher Glen, ,7.357666110948795,0.43181818183385057
+transit_countsqkm,906,21.29875199,27.451724794211685,Britannia Village, ,6.152972804211686,0.28888888922226874
+transit_countsqkm,907,12.28549956,10.802766857644682,Brookside - Briarbrook - Morgan's Grant, ,-1.4827327023553174,-0.1206896549150434
+transit_countsqkm,908,25.72426265,31.351445111943416,Byward Market,Marché By,5.627182461943416,0.2187500002820651
+transit_countsqkm,909,7.875857389,9.976086025954718,Cardinal Creek, ,2.100228636954718,0.2666666666524525
+transit_countsqkm,910,19.84672212,28.92912037364771,Carlingwood West - Glabar Park - McKellar Heights, ,9.08239825364771,0.4576271184094006
+transit_countsqkm,911,0.061482413,0.08383965470188831,Carp, ,0.02235724170188831,0.3636363735738269
+transit_countsqkm,912,17.27048727,19.513407690685067,Carson Grove - Carson Meadows, ,2.242920420685067,0.12987012963908498
+transit_countsqkm,913,14.24768263,18.996910173140325,Chapel Hill North, ,4.749227543140325,0.3333333333197867
+transit_countsqkm,914,12.11206295,15.690627006613555,Chapman Mills, ,3.578564056613555,0.2954545457191134
+transit_countsqkm,915,20.76388545,22.398837063366543,Convent Glen - Orléans Woods, ,1.6349516133665425,0.07874015763107296
+transit_countsqkm,916,1.119348627,1.1927485365637434,Cumberland, ,0.07339990956374343,0.06557377013135286
+transit_countsqkm,917,14.11582128,17.64477660028899,East Industrial,Industriel-Est,3.528955320288988,0.2500000000204726
+transit_countsqkm,918,0.173888852,0.21586202293769644,Edwards - Carlsbad Springs, ,0.041973170937696425,0.24137930899501495
+transit_countsqkm,919,14.98684898,20.731807750588676,Elmvale - Canterbury, ,5.744958770588676,0.38333333299450356
+transit_countsqkm,920,24.19188609,26.821438925674776,Fallingbrook, ,2.629552835674776,0.1086956521658612
+transit_countsqkm,921,4.319005712,6.17000816052272,Findlay Creek, ,1.8510024485227197,0.42857142869245635
+transit_countsqkm,922,0,0,Fitzroy, ,0,NA
+transit_countsqkm,923,19.08057452,22.016047514646264,Glebe - Dows Lake,Glebe – Lac Dows,2.9354729946462648,0.15384615340430877
+transit_countsqkm,924,16.33099065,21.186150032340592,Glen Cairn - Kanata South Business Park,Glen Cairn - Parc d'Affaires Kanata-Sud,4.855159382340592,0.2972972972916736
+transit_countsqkm,925,0.258952104,0.33088324357033677,Greely, ,0.07193113957033676,0.2777777761185395
+transit_countsqkm,926,0.753092719,1.2410968008138115,Greenbelt,Ceinture de Verdure,0.4880040818138115,0.6479999998696196
+transit_countsqkm,927,9.723234675,12.834669770418593,Hunt Club Woods - Quintarra - Revelstoke,Hunt Club Woods - Quintarra - Revelstoke,3.1114350954185923,0.3199999999402043
+transit_countsqkm,928,8.59620112,8.512742859571587,Kanata Lakes - Arcardia, ,-0.08345826042841331,-0.009708737529911738
+transit_countsqkm,929,17.21621265,19.02844556129121,Katimavik - Hazeldean, ,1.8122329112912112,0.10526315793916563
+transit_countsqkm,930,0,0,Kinburn, ,0,NA
+transit_countsqkm,931,22.32017659,31.833694480620775,Laurentian, ,9.513517890620776,0.42622950818781025
+transit_countsqkm,932,17.89059645,21.245083282988883,Ledbury - Heron Gate - Ridgemont, ,3.354486832988883,0.1874999999225226
+transit_countsqkm,933,16.46602974,18.818319692792954,Lindenlea - New Edinburgh, ,2.3522899527929546,0.1428571422459337
+transit_countsqkm,934,34.05712685,46.670877506646164,Lowertown,Basse-ville,12.613750656646161,0.3703703695323952
+transit_countsqkm,935,19.86303958,25.76766158471119,Manor Park, ,5.9046220047111895,0.29726678945233165
+transit_countsqkm,936,0.8095771,0.9085254121268267,Navan - Sarsfield, ,0.09894831212682664,0.12222222210438838
+transit_countsqkm,937,18.82649975,22.072447985410058,Old Barrhaven East,Old Barrhaven Est,3.245948235410058,0.17241379324428366
+transit_countsqkm,938,20.18704767,21.75497369675903,Old Barrhaven West,Old Barrhaven Ouest,1.5679260267590323,0.07766990262222095
+transit_countsqkm,939,20.80766325,25.703584013967426,Orléans Village - Chateauneuf, ,4.895920763967425,0.23529411761156913
+transit_countsqkm,940,22.29917446,24.758642229029363,Overbrook - McArthur, ,2.459467769029363,0.11029411754417759
+transit_countsqkm,941,41.248194,64.81859057046368,Parkwood Hills - Stewart Farm, ,23.570396570463686,0.5714285714051792
+transit_countsqkm,942,13.89329425,17.682374500970283,Portobello South, ,3.789080250970283,0.27272727279711095
+transit_countsqkm,943,24.52114967,29.970294043949522,Queenswood Heights, ,5.4491443739495224,0.2222222223379758
+transit_countsqkm,944,0.462001378,0.5271554186827904,Richmond, ,0.06515404068279035,0.1410256414490399
+transit_countsqkm,945,10.43323421,11.893886999454402,Rideau Crest - Davidson Heights, ,1.460652789454402,0.1400000000052143
+transit_countsqkm,946,2.289061626,2.6978226310101867,Riverside South - Leitrim,Riverside Sud - Leitrim,0.40876100501018664,0.1785714287319002
+transit_countsqkm,947,20.48939382,24.919533028108187,Riverview, ,4.430139208108187,0.21621621640089045
+transit_countsqkm,948,3.11594344,9.789850386317777,Rockcliffe Park,Parc Rockcliffe,6.673906946317777,2.1418575384403566
+transit_countsqkm,949,29.52410684,33.21462020577606,Sandy Hill,Côte-de-Sable,3.690513365776056,0.12500000036499176
+transit_countsqkm,950,14.50218036,24.34294560964972,Skyline - Fisher Heights, ,9.84076524964972,0.6785714289413044
+transit_countsqkm,951,6.5997452150000004,7.099725912714565,Stittsville, ,0.4999806977145642,0.07575757569825582
+transit_countsqkm,952,3.786039577,4.956269990065239,Stonebridge - Half Moon Bay - Heart's Desire, ,1.1702304130652394,0.3090909086567215
+transit_countsqkm,953,29.94460016,35.81609037190608,Vanier North,Vanier Nord,5.871490211906078,0.19607843085342697
+transit_countsqkm,954,25.54191243,42.820264950314254,Vanier South,Vanier Sud,17.278352520314254,0.6764705880057805
+transit_countsqkm,955,0.233490486,0.23349048571755943,Vars, ,-2.8244057093118613e-10,-1.2096448800538542e-9
+transit_countsqkm,956,2.759531934,8.020050125313283,Wateridge Village,Village des Riverains,5.260518191313283,1.9063081410650864
+transit_countsqkm,957,29.68501279,39.766715252500504,West Centretown,Centre-Ville Ouest,10.081702462500505,0.33962264169536527
+transit_countsqkm,958,26.20025173,29.041242881304004,Westboro, ,2.840991151304003,0.10843373493434762
