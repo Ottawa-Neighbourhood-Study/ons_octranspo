@@ -1,0 +1,27 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+all_outputs_long|stem|b826a68df3ab1c49|d07b7faeef80aa56|6f4907a45829408f|-596363511||t19265.8323334916s|e61a516f176f57b2|6326|rds|local|vector|||0.001||
+all_outputs_wide|stem|2d22a1c04408c10e|a143540d357b8b41|afe9504e43562300|-1402237629||t19265.8323338388s|cc18ffdc401a5511|3895|rds|local|vector|||0.016||
+dbs_stops_600mwalk|stem|0c5763dd68bd9028|ae4741687a94ec87|88087871d736d2e3|109566038||t19262.7838793356s|b889ca12edd7941f|28579|rds|local|vector|||804.484||
+dbs_stops_600mwalk_all|stem|c64b4b020f59bd4e|db84b1303580966f|c2fbbc8c81ad081c|1553568464||t19263.6233649742s|9067163fbc1e4651|35017|rds|local|vector|||0.043||
+dbs_stops_close_buffer|stem|bb1100750c3f5a8f|6dbfd3bf563cdc5e|5651e0dfecbafcb4|-879598753||t19262.749672775s|4b352e418a76c678|1197551|rds|local|vector|||870.192||
+dbs_stops_close_centroid|stem|b6c0ba8f0e5fd895|d1326e7d5ba758ef|ea053175202303c1|520964413||t19262.7293672721s|84648c0a0214353a|9871686|rds|local|vector|||51.099||
+dbs_stops_walkdist|stem|3c261a7d849430f7|f6f02b6e5330b6ee|28f7a9c9165d0d0a|-804017413||t19263.6510762327s|574c812aa2bfada1|2036405|rds|local|vector|||880.996||
+gtfs|stem|0244f8c324ad2999|46618790f33d4864|12de8889ba2931eb|2091809729||t19262.726196243s|0324419cb5478829|3204575|rds|local|vector|||1.49||
+gtfs_file|stem|cd487f0072fffa1e|c2efd4e3ded620e5|ef46db3751d8e999|-1865190113|data/google_transit.zip|t19226.7460836831s|96eb3163d5044cbf|6401353|file|local|vector|||1.047|running command timedatectl had status 1|
+ons_data|stem|e7683065532737a6|8ccc547bb2d522bf|c3b5fc02cdc369c1|1515186085||t19263.6719969869s|a929fe7a83e3e805|573367|rds|local|vector|||10.993|running command timedatectl had status 1. NAs introduced by coercion. NAs introduced by coercion. NAs introduced by coercion. NAs introduced by coercion. NAs introduced by coercion. NAs introduced by coercion. NAs introduced by coercion. NAs introduced by coercion. NAs introduced by coercion. NAs introduced by coercion. NAs introduced by coercion. NAs introduced by coercion. NAs introduced by coercion. NAs introduced by coercion. NAs introduced by coercion. NAs introduced by coercion|
+ons_shp|stem|540bfff069bc0c08|0c98f299c20531dc|c3b5fc02cdc369c1|1686579308||t19265.7971351163s|c818bb4120f08702|653246|rds|local|vector|||1.094|running command timedatectl had status 1|
+ons_shp_50mbuffer|stem|7ca79374f1337787|f912a9a97047e3b2|5c0a96b3cc41fe28|-2053067835||t19265.8154548687s|85c604ef25de9011|1556045|rds|local|vector|||0.261||
+ott_dbs_buffer|stem|511e009a54ef19d3|2d79066b415b7a86|63fff111e7147bb9|-844521321||t19262.7309929405s|5d37fb02f0c9f2e6|15645782|rds|local|vector|||2.817||
+ott_dbs_nad|stem|6a6ed907866bd724|d27b57ec296c8579|a2fc94158a37ebd8|-1670312409||t19262.7279855831s|b595d86bfbb1d49b|250279|rds|local|vector|||0.01||
+ott_dbs_shp|stem|70eb0536689daaf7|b8c6f33edd39f5cd|c3b5fc02cdc369c1|2009317829||t19262.7279839627s|e963979d3ad941a7|285103|rds|local|vector|||3.567|running command timedatectl had status 1|
+ott_dbs_shp_whole|stem|82f9fe043f44c1af|f447df5926783f0e|7601abaaee35d97a|1017286579||t19262.730936459s|ee7759ec9dccd1e7|2305855|rds|local|vector|||3.016||
+ott_dbs_wgs84|stem|55b3dbb14fce2985|97fa43a62111ed68|9af706ad927d1ae5|633153454||t19262.7279850044s|38addf459a51d6e1|135473|rds|local|vector|||0.051||
+save_results|stem|2d22a1c04408c10e|99e766425c49eb81|52fc0d3685e2bde5|-1191734632||t19265.8362691404s|cc18ffdc401a5511|3895|rds|local|vector|||0.106||
+stops|stem|80f4016485fec33b|e9a06351f606151d|e33ecdd4ec8de7d5|1317467708||t19262.7261964745s|c3eb67ef0d9193c5|132806|rds|local|vector|||0.002||
+stops_nad|stem|d99a57aaf2d6305c|b336030a3ab413dc|ea37d899887d2603|-2089883226||t19262.7261985578s|99feacb8f3bdd30f|161904|rds|local|vector|||0.156||
+stops_nad_shp|stem|1e8bc16d14caf0b3|9e800f330d9603f4|86d31f44858213de|241777226||t19262.7325140922s|b94845b4fcb5cd0d|169105|rds|local|vector|||0.086||
+transit_count|stem|4b5d851d9aad5279|86926662412a9707|01bfbf77fdb33422|1546922187||t19265.8214570197s|0296590fdecf4135|2800|rds|local|vector|||0.975||
+transit_count1000|stem|0d53aa133da12622|0842b48706112a02|ffb90cc0fb6db478|1445565792||t19265.8239148349s|e894a12e8bd2ce9a|3540|rds|local|vector|||0.016||
+transit_countsqkm|stem|8cf4f0aa95aab004|d8735c408a260111|c4a0610c430c5b16|1821776691||t19265.8239146034s|abc49659bfbc3b13|3591|rds|local|vector|||0.04||
+transit_numR|stem|85a6a5ab9e158e35|31760faeae857178|26a7f0507b1d4e05|1838840396||t19265.8306866327s|69aca1bd1ee4eff2|3339|rds|local|vector|||1.385||
+transit_numS|stem|a5baeced3e409edf|6e7b01931d4a8bbe|a7ac5a58d1554736|-1735405514||t19265.8323333759s|53e7e09a82fff90a|3338|rds|local|vector|||0.186||
