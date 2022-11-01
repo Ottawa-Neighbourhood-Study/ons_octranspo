@@ -82,8 +82,6 @@ list(
       dplyr::left_join(ott_dbs_nad, by = "DBUID")
 
     results <- vector(mode = "list", length = nrow(dbs_stops))
-    #results_dbuids <- character(length = nrow(dbs_stops))
-    #results_numstops <- integer(length = nrow(dbs_stops))
 
     # get number of walkable stops from each db using a silly loop
 
@@ -94,6 +92,7 @@ list(
       db_from <- dplyr::select(db, lon, lat, DBUID)
       db_stops <- db$stops_close[[1]]
 
+      # only do calcluations if there are any stops
       if (nrow(db_stops) > 0){
         distances <- valhallr::od_table(froms = db_from, from_id_col = "DBUID",
                                         tos = db_stops, to_id_col = "stop_id",
@@ -101,16 +100,8 @@ list(
                                         hostname = "localhost", port = "8002")
 
         results[[i]] <- distances
-        # close_stops <- distances %>%
-        #   dplyr::filter(distance < 0.6) %>%
-        #   nrow()
-      } #else {
-      #  close_stops <- 0
-      #}
 
-
-      # results_dbuids[[i]] <- db$DBUID
-      # results_numstops[[i]] <- close_stops
+      } # end if there are any stops
 
     } # end of silly loop
 
@@ -119,19 +110,9 @@ list(
       tidyr::unnest(value) %>%
       dplyr::select(-name)
 
-    # db_stops_within_600m <- dplyr::tibble(DBUID = results_dbuids,
-    #                                       num_stops = results_numstops)
-    #6
   }),
 
-  #  # and adding back any zeros
-  #  tar_target(dbs_stops_600mwalk, {
-  #    onsr::db_to_ons_data %>%
-  #      dplyr::left_join(dbs_stops_walkdist) %>%
-  #      dplyr::mutate(num_stops = tidyr::replace_na(num_stops, 0))
-  #  }),
-  #
-  #
+
   #############################################-
   # Avg. # of public transit stops within 600m walking distance----
   ## group dbs into neighbourhoods, find avg # of stops within walking distance within hoods
@@ -322,33 +303,3 @@ list(
   NULL
 
 )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# # get stops close to each db for walk distance calculations
-# # only takes a minute or two
-# tar_target(dbs_stops_close_centroid, {
-#   ott_dbs_nad %>%
-#     dplyr::mutate(stops_close = purrr::map2(X, Y, function(dbX, dbY){
-#       dplyr::mutate(stops_nad,
-#                     xdiff = X - dbX,
-#                     ydiff = Y - dbY,
-#                     dist = sqrt(xdiff^2 + ydiff ^2)) %>%
-#         dplyr::filter(dist < 1000)
-#
-#     })
-#     )
-# }),
