@@ -122,17 +122,18 @@ list(
       dplyr::group_by(DBUID) %>%
       dplyr::count() %>%
       dplyr::left_join(onsr::db_to_ons_data, ., by = "DBUID") %>%
-      dplyr::mutate(n = tidyr::replace_na(n, 0))
+      dplyr::mutate(n = tidyr::replace_na(n, 0)) %>%
+      dplyr::left_join(dplyr::mutate(onsr::ottawa_db_pops_2016, DBUID = as.character(DBUID)), by = "DBUID")
 
-    hoods <- num_db_stops %>%
+    hoods <- num_db_stops%>%
       dplyr::group_by(ONS_ID) %>%
-      dplyr::summarise(value = mean(n)) %>%
+      dplyr::summarise(value = sum(n * db_pop_2016) / sum(db_pop_2016)) %>%
       dplyr::left_join(sf::st_set_geometry(onsr::ons_shp, NULL), .,  by = "ONS_ID") %>%
       dplyr::mutate(value = tidyr::replace_na(value, 0)) %>%
       dplyr::mutate(measure = "transit_numS", .before = 1)
 
     ottawa <- num_db_stops %>%
-      dplyr::summarise(value = mean(n)) %>%
+      dplyr::summarise(value = sum(n * db_pop_2016) / sum(db_pop_2016)) %>%
       dplyr::mutate(measure= "transit_numS", .before = 1) %>%
       dplyr::mutate(ONS_ID = 0, .before = 1) %>%
       dplyr::mutate(Name = "Ottawa", Name_FR = "Ottawa")
@@ -174,18 +175,21 @@ list(
 
 
     hoods <- onsr::db_to_ons_data %>%
+      dplyr::left_join(dplyr::mutate(onsr::ottawa_db_pops_2016, DBUID = as.character(DBUID)), by = "DBUID") %>%
       dplyr::left_join(dbs_num_routes, by = "DBUID")  %>%
       dplyr::mutate(num_routes = tidyr::replace_na(num_routes, 0)) %>%
       dplyr::group_by(ONS_ID) %>%
-      dplyr::summarise(value = mean(num_routes)) %>%
+      dplyr::summarise(value = sum(num_routes * db_pop_2016) / sum(db_pop_2016)) %>%
+      #dplyr::summarise(value = mean(num_routes)) %>%
       dplyr::left_join(sf::st_set_geometry(onsr::ons_shp, NULL), .,  by = "ONS_ID") %>%
       dplyr::mutate(measure= "transit_numR")
 
     ottawa <- onsr::db_to_ons_data %>%
+      dplyr::left_join(dplyr::mutate(onsr::ottawa_db_pops_2016, DBUID = as.character(DBUID)), by = "DBUID") %>%
       dplyr::left_join(dbs_num_routes, by = "DBUID")  %>%
       dplyr::mutate(num_routes = tidyr::replace_na(num_routes, 0)) %>%
       #group_by(ONS_ID) %>%
-      dplyr::summarise(value = mean(num_routes)) %>%
+      dplyr::summarise(value = sum(num_routes * db_pop_2016) / sum(db_pop_2016)) %>%
       dplyr::mutate(measure= "transit_numR", .before = 1) %>%
       dplyr::mutate(ONS_ID = 0, .before = 1) %>%
       dplyr::mutate(Name = "Ottawa", Name_FR = "Ottawa")
