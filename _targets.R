@@ -16,7 +16,7 @@ list(
   tar_target(ons_shp_50mbuffer,
              sf::st_buffer(sf::st_transform(ons_shp, crs = 32189), 50)),
   tar_target(ons_data, onsr::get_ons_data()),
-  tar_target(gtfs_file,"data/google_transit.zip", format = "file"),
+  tar_target(gtfs_file,"data/google_transit_2022_nov.zip", format = "file"),
   tar_target(gtfs, tidytransit::read_gtfs(gtfs_file)),
   tar_target(stops, dplyr::rename(gtfs$stops, lat = stop_lat, lon = stop_lon)),
   tar_target(stops_nad, {
@@ -303,6 +303,42 @@ list(
     readr::write_csv(compare_last_time, sprintf("output_final/octranspo_diffs-%s.csv", Sys.Date()))
   }),
 
+  targets::tar_target(website_map, {
+    # ott_dbs_shp_whole %>%
+    #   left_join(dbs_num_routes, by = "DBUID") %>%
+    #   mutate(num_routes = if_else(is.na(num_routes), 0L, num_routes)) %>%
+    #   ggplot() +
+    #   geom_sf(aes(fill = num_routes), colour = NA) +
+    #   scale_fill_binned(breaks = c(0,1,2,3,7,10,15,21,30, 40) , type = "viridis") +
+    #   labs(fill = "# public transit routes\nwith stops within 600m")
+    #
+    # ott_dbs_shp_whole %>%
+    #   left_join(dbs_num_routes, by = "DBUID") %>%
+    #   mutate(num_routes = if_else(is.na(num_routes), 0L, num_routes)) %>%
+    #   sf::st_transform(crs = "WGS84") %>%
+    #   ggplot() +
+    #   geom_sf(aes(fill = num_routes), colour = NA) +
+    #   scale_fill_binned(breaks = c(0,1,2,3,7,10,15,21,30, 40, 50) , type = "viridis") +
+    #   labs(fill = "# public transit routes\nwith stops within 600m") +
+    #   coord_sf(ylim = c(45.28, 45.46), xlim = c(-75.85, -75.6))
+    #
+    #
+    # db_routes_shp <- ott_dbs_shp_whole %>%
+    #   left_join(dbs_num_routes, by = "DBUID") %>%
+    #   mutate(num_routes = if_else(is.na(num_routes), 0L, num_routes)) %>%
+    #   sf::st_transform(crs = "WGS84")
+    #
+    # bins <- c(0,1,2,3,7,10,15,21,30, 40, 50)
+    #
+    # route_pal <- colorBin("viridis", range(db_routes_shp$num_routes), bins = bins)
+    #
+    # db_routes_shp %>%
+    #   #head(100) %>%
+    # leaflet() %>%
+    #   addTiles() %>%
+    #   addPolygons( label = ~paste0(DBUID, ": ", num_routes), weight = 1, fillColor =  ~ route_pal(num_routes), fillOpacity = 0.7)
+
+  }),
 
   NULL
 

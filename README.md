@@ -13,7 +13,7 @@ instance (e.g. through the gisops/valhalla Docker image).
 
 Transit data is from the [OCTranspo official GTFS
 feed](https://www.octranspo.com/en/plan-your-trip/travel-tools/developers/),
-updated as of August 22, 2022.
+updated as of November 5, 2022.
 
 Final results are saved in the `output_final` folder in several formats.
 
