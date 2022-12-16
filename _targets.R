@@ -275,7 +275,8 @@ list(
   }),
 
   tar_target(all_outputs_long,
-             dplyr::bind_rows(transit_numS, transit_numR, transit_count, transit_count1000, transit_countsqkm) ),
+             dplyr::bind_rows(transit_numS, transit_numR, transit_count, transit_count1000, transit_countsqkm) %>%
+               dplyr::mutate(value = dplyr::if_else(is.na(value), 0, value))),
 
   tar_target(all_outputs_wide, {
     test <- all_outputs_long %>%

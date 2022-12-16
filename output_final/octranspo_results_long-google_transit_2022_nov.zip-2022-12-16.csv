@@ -1,0 +1,561 @@
+ONS_ID,measure,value,Name,Name_FR
+0,transit_numS,9.755484386824413,Ottawa,Ottawa
+938,transit_numS,10.04635724645766,Old Barrhaven West,Old Barrhaven Ouest
+3,transit_numS,14.166552807760622,Beacon Hill South - Cardinal Heights,Beacon Hill Sud - Cardinal Heights
+902,transit_numS,9.687765634486945,Beaverbrook, 
+6,transit_numS,6.550548112058466,Bells Corners East,Bells Corners Est
+7,transit_numS,10.835250805338243,Bells Corners West,Bells Corners Ouest
+903,transit_numS,13.897376183822388,Billings Bridge - Alta Vista, 
+52,transit_numS,5.855602706732423,Hunt Club Upper -Blossom Park - Timbermill,Hunt Club Supérieur - Parc Blossom - Timbermill
+905,transit_numS,9.026864474739375,Borden Farm - Fisher Glen, 
+11,transit_numS,9.554317548746518,Braemar Park - Bel Air Heights - Copeland Park,Parc Braemar - Hauteurs Bel Air - Parc Copeland
+12,transit_numS,4.429368029739777,Briar Green - Leslie Park,Briar Green - Parc Leslie
+16,transit_numS,8.153703129841958,Carleton Heights - Rideauview,Hauteurs Carleton - Rideauview
+18,transit_numS,17.72280840153831,Carlington, 
+931,transit_numS,12.934836574265619,Laurentian, 
+910,transit_numS,10.779286561051837,Carlingwood West - Glabar Park - McKellar Heights, 
+912,transit_numS,9.206926786497151,Carson Grove - Carson Meadows, 
+23,transit_numS,8.770876466528641,Centrepointe, 
+24,transit_numS,19.546848322241193,Centretown,Centre-Ville
+913,transit_numS,7.875903501361119,Chapel Hill North, 
+950,transit_numS,8.36796134547482,Skyline - Fisher Heights, 
+28,transit_numS,12.972787318361956,Civic Hospital-Central Park,Hôpital Civique - Parc Central
+31,transit_numS,6.4443078985588205,Cityview - Crestview - Meadowlands, 
+38,transit_numS,13.014988119173825,Emerald Woods - Sawmill Creek, 
+923,transit_numS,13.176943699731904,Glebe - Dows Lake,Glebe – Lac Dows
+45,transit_numS,12.477829638273045,Greenboro East,Greenboro Est
+46,transit_numS,10.840964966195452,Hawthorne Meadows - Sheffield Glen, 
+47,transit_numS,16.063306330633065,Hintonburg - Mechanicsville, 
+48,transit_numS,4.581777445855116,Hunt Club - Ottawa Airport,Hunt Club - Aéroport d'Ottawa
+49,transit_numS,12.341769668432411,Hunt Club East - Western Community,Hunt Club Est - Communauté de l'Ouest
+54,transit_numS,10.326135997421849,Iris - Queensway Terrance South,Iris - Queensway Terrance Sud
+55,transit_numS,14.170041211252464,Island Park - Wellington Village,Island Park - Village Wellington
+929,transit_numS,12.39846776276147,Katimavik - Hazeldean, 
+932,transit_numS,11.162178247284631,Ledbury - Heron Gate - Ridgemont, 
+933,transit_numS,13.76264071742034,Lindenlea - New Edinburgh, 
+934,transit_numS,19.710826433369785,Lowertown,Basse-ville
+939,transit_numS,9.765998176845944,Orléans Village - Chateauneuf, 
+940,transit_numS,15.268613739201975,Overbrook - McArthur, 
+87,transit_numS,6.569703069954706,Playfair Park - Lynda Park - Guildwood Estates,Parc Playfair - Parc Lynda - Domaines Guildwood
+88,transit_numS,10.430511543684926,Qualicum - Redwood Park,Qualicum - Parc Redwood
+943,transit_numS,12.676206322795341,Queenswood Heights, 
+90,transit_numS,8.631613183000868,Riverside Park,Parc Riverside
+949,transit_numS,19.154119318181817,Sandy Hill,Côte-de-Sable
+100,transit_numS,7.911576795297726,Trend-Arlington, 
+97,transit_numS,9.894457937734598,South Keys - Greenboro West,South Keys - Greenboro Ouest
+99,transit_numS,9.584634867032504,Tanglewood, 
+954,transit_numS,12.92436974789916,Vanier South,Vanier Sud
+957,transit_numS,19.45109561752988,West Centretown,Centre-Ville Ouest
+958,transit_numS,15.8922242899911,Westboro, 
+106,transit_numS,13.040577545431914,Whitehaven - Queensway Terrace North,Whitehaven - Terrasse Queensway Nord
+108,transit_numS,9.183795411089866,Woodvale - Craig Henry - Manordale - Estates of Arlington Woods,Woodvale - Craig Henry - Manordale - Domaines des Bois d'Arlington
+948,transit_numS,4.944099378881988,Rockcliffe Park,Parc Rockcliffe
+956,transit_numS,0,Wateridge Village,Village des Riverains
+953,transit_numS,16.207244995233555,Vanier North,Vanier Nord
+915,transit_numS,11.19170449855551,Convent Glen - Orléans Woods, 
+50,transit_numS,9.62119239781307,Hunt Club Park,Parc Hunt Club
+917,transit_numS,13.016935263589183,East Industrial,Industriel-Est
+919,transit_numS,7.917782538832351,Elmvale - Canterbury, 
+65,transit_numS,10.574208443271768,Merivale Gardens - Grenfell Glen - Pineglen - Country Place,Merivale Gardens - Grenfell Glen - Pineglen - Country Place
+93,transit_numS,6.806936629462227,Rothwell Heights - Beacon Hill North,Rothwell Heights - Beacon Hill Nord
+76,transit_numS,8.149425287356323,Chatelaine Village,Village Chatelaine
+924,transit_numS,8.889765175011076,Glen Cairn - Kanata South Business Park,Glen Cairn - Parc d'Affaires Kanata-Sud
+928,transit_numS,6.779239502613083,Kanata Lakes - Arcardia, 
+927,transit_numS,6.6760634706279545,Hunt Club Woods - Quintarra - Revelstoke,Hunt Club Woods - Quintarra - Revelstoke
+13,transit_numS,8.504713114754098,Bridlewood - Emerald Meadows, 
+942,transit_numS,9.177562402852702,Portobello South, 
+75,transit_numS,6.025902211874272,Chapel Hill South,Chapel Hill Sud
+904,transit_numS,10.233255785478145,Blackburn Hamlet, 
+945,transit_numS,6.791931453052482,Rideau Crest - Davidson Heights, 
+946,transit_numS,3.8223559879610836,Riverside South - Leitrim,Riverside Sud - Leitrim
+32,transit_numS,6.375315497223625,Crystal Bay - Lakeview Park,Baie Crystal - Parc Lakeview
+906,transit_numS,16.889435645086884,Britannia Village, 
+908,transit_numS,16.781390695347675,Byward Market,Marché By
+83,transit_numS,13.505671077504726,Old Ottawa South,Vieil Ottawa-Sud
+82,transit_numS,10.148395721925134,Old Ottawa East,Vieil Ottawa-Est
+17,transit_numS,1,Carleton University,Université Carleton
+5,transit_numS,0,Beechwood Cemetery,Cimetière Beechwood
+60,transit_numS,15.208064516129033,Lebreton Development,Développement Lebreton
+71,transit_numS,0,Notre-Dame Cemetery,Cimetière Notre-Dame
+77,transit_numS,13,Orléans Industrial,Orléans Industriel
+51,transit_numS,7.454248366013072,Hunt Club South Industrial,Hunt Club Sud Industriel
+951,transit_numS,5.240626910822901,Stittsville, 
+952,transit_numS,5.323605030922104,Stonebridge - Half Moon Bay - Heart's Desire, 
+944,transit_numS,3.1976289134438307,Richmond, 
+922,transit_numS,0,Fitzroy, 
+29,transit_numS,0,Constance Bay,Baie Constance
+916,transit_numS,1.2795698924731183,Cumberland, 
+67,transit_numS,1.3539246245395296,Munster - Ashton, 
+85,transit_numS,0,Marlborough, 
+30,transit_numS,0,Corkery, 
+930,transit_numS,0,Kinburn, 
+70,transit_numS,0.39748378218989583,North Gower - Kars, 
+64,transit_numS,1.7679102574997876,Manotick, 
+81,transit_numS,0.10686728395061729,Osgoode - Vernon, 
+66,transit_numS,0.9678293873124887,Metcalfe, 
+918,transit_numS,0.7870475113122172,Edwards - Carlsbad Springs, 
+925,transit_numS,0.4767315033630249,Greely, 
+955,transit_numS,1.1883308714918759,Vars, 
+936,transit_numS,2.9337056386236715,Navan - Sarsfield, 
+35,transit_numS,0.06577323223417386,Dunrobin, 
+911,transit_numS,0.16043956043956045,Carp, 
+901,transit_numS,11.748224589436306,Bayshore - Belltown, 
+926,transit_numS,1.683325207215992,Greenbelt,Ceinture de Verdure
+86,transit_numS,7.699255422466818,Pineview, 
+907,transit_numS,8.569717868338557,Brookside - Briarbrook - Morgan's Grant, 
+937,transit_numS,10.847989254957731,Old Barrhaven East,Old Barrhaven Est
+921,transit_numS,7.608816890187226,Findlay Creek, 
+941,transit_numS,8.810296728379406,Parkwood Hills - Stewart Farm, 
+920,transit_numS,11.35719656283566,Fallingbrook, 
+909,transit_numS,9.53293933599861,Cardinal Creek, 
+947,transit_numS,10.398055391868002,Riverview, 
+935,transit_numS,13.785836177474403,Manor Park, 
+914,transit_numS,7.5062114356232,Chapman Mills, 
+0,transit_numR,5.007236875202704,Ottawa,Ottawa
+938,transit_numR,4.473111681356689,Old Barrhaven West,Old Barrhaven Ouest
+3,transit_numR,10.708156852028965,Beacon Hill South - Cardinal Heights,Beacon Hill Sud - Cardinal Heights
+902,transit_numR,8.840619307832423,Beaverbrook, 
+6,transit_numR,4.76390580592773,Bells Corners East,Bells Corners Est
+7,transit_numR,5.127243442245743,Bells Corners West,Bells Corners Ouest
+903,transit_numR,9.403586399627388,Billings Bridge - Alta Vista, 
+52,transit_numR,2.9801582750315405,Hunt Club Upper -Blossom Park - Timbermill,Hunt Club Supérieur - Parc Blossom - Timbermill
+905,transit_numR,4.64648489708634,Borden Farm - Fisher Glen, 
+11,transit_numR,1.8684943556663245,Braemar Park - Bel Air Heights - Copeland Park,Parc Braemar - Hauteurs Bel Air - Parc Copeland
+12,transit_numR,2.5953531598513013,Briar Green - Leslie Park,Briar Green - Parc Leslie
+16,transit_numR,3.5165788658196466,Carleton Heights - Rideauview,Hauteurs Carleton - Rideauview
+18,transit_numR,4.301942609210137,Carlington, 
+931,transit_numR,4.072403806371535,Laurentian, 
+910,transit_numR,4.754283866795991,Carlingwood West - Glabar Park - McKellar Heights, 
+912,transit_numR,5.867689609820254,Carson Grove - Carson Meadows, 
+23,transit_numR,4.673982056590752,Centrepointe, 
+24,transit_numR,6.8553956583853095,Centretown,Centre-Ville
+913,transit_numR,5.7845677274007326,Chapel Hill North, 
+950,transit_numR,3.188069132131574,Skyline - Fisher Heights, 
+28,transit_numR,4.050638485248789,Civic Hospital-Central Park,Hôpital Civique - Parc Central
+31,transit_numR,3.7865043011953974,Cityview - Crestview - Meadowlands, 
+38,transit_numR,7.801316029976238,Emerald Woods - Sawmill Creek, 
+923,transit_numR,3.5755649176560707,Glebe - Dows Lake,Glebe – Lac Dows
+45,transit_numR,4.6012252042007,Greenboro East,Greenboro Est
+46,transit_numR,2.578826060233559,Hawthorne Meadows - Sheffield Glen, 
+47,transit_numR,12.977397739773977,Hintonburg - Mechanicsville, 
+48,transit_numR,1.0522778192681106,Hunt Club - Ottawa Airport,Hunt Club - Aéroport d'Ottawa
+49,transit_numR,4.470472827153228,Hunt Club East - Western Community,Hunt Club Est - Communauté de l'Ouest
+54,transit_numR,9.978085723493393,Iris - Queensway Terrance South,Iris - Queensway Terrance Sud
+55,transit_numR,13.874574449023472,Island Park - Wellington Village,Island Park - Village Wellington
+929,transit_numR,8.44271326504261,Katimavik - Hazeldean, 
+932,transit_numR,6.225933640827257,Ledbury - Heron Gate - Ridgemont, 
+933,transit_numR,3.5781339439038353,Lindenlea - New Edinburgh, 
+934,transit_numR,8.813779097016091,Lowertown,Basse-ville
+939,transit_numR,6.949680948040109,Orléans Village - Chateauneuf, 
+940,transit_numR,5.842451665981078,Overbrook - McArthur, 
+87,transit_numR,2.6492199295420233,Playfair Park - Lynda Park - Guildwood Estates,Parc Playfair - Parc Lynda - Domaines Guildwood
+88,transit_numR,6.087369850611136,Qualicum - Redwood Park,Qualicum - Parc Redwood
+943,transit_numR,6.5429284525790345,Queenswood Heights, 
+90,transit_numR,3.5002168256721595,Riverside Park,Parc Riverside
+949,transit_numR,10.36166351010101,Sandy Hill,Côte-de-Sable
+100,transit_numR,2.4431382570917455,Trend-Arlington, 
+97,transit_numR,8.20026495915213,South Keys - Greenboro West,South Keys - Greenboro Ouest
+99,transit_numR,3.6262135922330097,Tanglewood, 
+954,transit_numR,4.298393041427097,Vanier South,Vanier Sud
+957,transit_numR,6.623107569721116,West Centretown,Centre-Ville Ouest
+958,transit_numR,11.902257464196133,Westboro, 
+106,transit_numR,7.855779603352419,Whitehaven - Queensway Terrace North,Whitehaven - Terrasse Queensway Nord
+108,transit_numR,2.974784894837476,Woodvale - Craig Henry - Manordale - Estates of Arlington Woods,Woodvale - Craig Henry - Manordale - Domaines des Bois d'Arlington
+948,transit_numR,1.165631469979296,Rockcliffe Park,Parc Rockcliffe
+956,transit_numR,0,Wateridge Village,Village des Riverains
+953,transit_numR,4.5333651096282175,Vanier North,Vanier Nord
+915,transit_numR,7.560393451643968,Convent Glen - Orléans Woods, 
+50,transit_numR,4.460687321010154,Hunt Club Park,Parc Hunt Club
+917,transit_numR,9.936902485659656,East Industrial,Industriel-Est
+919,transit_numR,3.555436529191216,Elmvale - Canterbury, 
+65,transit_numR,3.223944591029024,Merivale Gardens - Grenfell Glen - Pineglen - Country Place,Merivale Gardens - Grenfell Glen - Pineglen - Country Place
+93,transit_numR,4.103864957107278,Rothwell Heights - Beacon Hill North,Rothwell Heights - Beacon Hill Nord
+76,transit_numR,4.446896551724138,Chatelaine Village,Village Chatelaine
+924,transit_numR,4.724501550731059,Glen Cairn - Kanata South Business Park,Glen Cairn - Parc d'Affaires Kanata-Sud
+928,transit_numR,4.260407280591098,Kanata Lakes - Arcardia, 
+927,transit_numR,1.9191424713031735,Hunt Club Woods - Quintarra - Revelstoke,Hunt Club Woods - Quintarra - Revelstoke
+13,transit_numR,5.771434426229508,Bridlewood - Emerald Meadows, 
+942,transit_numR,4.414738959495291,Portobello South, 
+75,transit_numR,4.900853705859527,Chapel Hill South,Chapel Hill Sud
+904,transit_numR,4.11460756703808,Blackburn Hamlet, 
+945,transit_numR,4.053695108889682,Rideau Crest - Davidson Heights, 
+946,transit_numR,3.4338209561139497,Riverside South - Leitrim,Riverside Sud - Leitrim
+32,transit_numR,2.825088339222615,Crystal Bay - Lakeview Park,Baie Crystal - Parc Lakeview
+906,transit_numR,7.456866061817623,Britannia Village, 
+908,transit_numR,10.367850591962648,Byward Market,Marché By
+83,transit_numR,2.4139886578449907,Old Ottawa South,Vieil Ottawa-Sud
+82,transit_numR,4.800668449197861,Old Ottawa East,Vieil Ottawa-Est
+17,transit_numR,4,Carleton University,Université Carleton
+5,transit_numR,0,Beechwood Cemetery,Cimetière Beechwood
+60,transit_numR,9.041935483870967,Lebreton Development,Développement Lebreton
+71,transit_numR,0,Notre-Dame Cemetery,Cimetière Notre-Dame
+77,transit_numR,12,Orléans Industrial,Orléans Industriel
+51,transit_numR,2.082788671023965,Hunt Club South Industrial,Hunt Club Sud Industriel
+951,transit_numR,2.4648730409036785,Stittsville, 
+952,transit_numR,3.2184003891320963,Stonebridge - Half Moon Bay - Heart's Desire, 
+944,transit_numR,1.0407458563535912,Richmond, 
+922,transit_numR,0,Fitzroy, 
+29,transit_numR,0,Constance Bay,Baie Constance
+916,transit_numR,0.4576905095839177,Cumberland, 
+67,transit_numR,0.27373193539246243,Munster - Ashton, 
+85,transit_numR,0,Marlborough, 
+30,transit_numR,0,Corkery, 
+930,transit_numR,0,Kinburn, 
+70,transit_numR,0.1116571653233733,North Gower - Kars, 
+64,transit_numR,0.7627262683776663,Manotick, 
+81,transit_numR,0.05343364197530864,Osgoode - Vernon, 
+66,transit_numR,0.22266401590457258,Metcalfe, 
+918,transit_numR,0.17024886877828055,Edwards - Carlsbad Springs, 
+925,transit_numR,0.2114161061625159,Greely, 
+955,transit_numR,0.2621861152141802,Vars, 
+936,transit_numR,0.9560439560439561,Navan - Sarsfield, 
+35,transit_numR,0.027861047434314935,Dunrobin, 
+911,transit_numR,0.09362637362637363,Carp, 
+901,transit_numR,22.089325343985795,Bayshore - Belltown, 
+926,transit_numR,1.0699658703071673,Greenbelt,Ceinture de Verdure
+86,transit_numR,2.337002266105536,Pineview, 
+907,transit_numR,4.059247648902821,Brookside - Briarbrook - Morgan's Grant, 
+937,transit_numR,6.320731610966264,Old Barrhaven East,Old Barrhaven Est
+921,transit_numR,2.190147390784756,Findlay Creek, 
+941,transit_numR,4.660664468678671,Parkwood Hills - Stewart Farm, 
+920,transit_numR,3.289795918367347,Fallingbrook, 
+909,transit_numR,3.3507735094733184,Cardinal Creek, 
+947,transit_numR,11.814230995875073,Riverview, 
+935,transit_numR,3.1945392491467577,Manor Park, 
+914,transit_numR,5.221225832990539,Chapman Mills, 
+0,transit_count,5789,Ottawa,Ottawa
+938,transit_count,111,Old Barrhaven West,Old Barrhaven Ouest
+3,transit_count,66,Beacon Hill South - Cardinal Heights,Beacon Hill Sud - Cardinal Heights
+902,transit_count,50,Beaverbrook, 
+6,transit_count,45,Bells Corners East,Bells Corners Est
+7,transit_count,42,Bells Corners West,Bells Corners Ouest
+903,transit_count,143,Billings Bridge - Alta Vista, 
+52,transit_count,45,Hunt Club Upper -Blossom Park - Timbermill,Hunt Club Supérieur - Parc Blossom - Timbermill
+905,transit_count,66,Borden Farm - Fisher Glen, 
+11,transit_count,51,Braemar Park - Bel Air Heights - Copeland Park,Parc Braemar - Hauteurs Bel Air - Parc Copeland
+12,transit_count,29,Briar Green - Leslie Park,Briar Green - Parc Leslie
+16,transit_count,43,Carleton Heights - Rideauview,Hauteurs Carleton - Rideauview
+18,transit_count,94,Carlington, 
+931,transit_count,88,Laurentian, 
+910,transit_count,83,Carlingwood West - Glabar Park - McKellar Heights, 
+912,transit_count,87,Carson Grove - Carson Meadows, 
+23,transit_count,50,Centrepointe, 
+24,transit_count,93,Centretown,Centre-Ville
+913,transit_count,72,Chapel Hill North, 
+950,transit_count,47,Skyline - Fisher Heights, 
+28,transit_count,132,Civic Hospital-Central Park,Hôpital Civique - Parc Central
+31,transit_count,73,Cityview - Crestview - Meadowlands, 
+38,transit_count,29,Emerald Woods - Sawmill Creek, 
+923,transit_count,60,Glebe - Dows Lake,Glebe – Lac Dows
+45,transit_count,60,Greenboro East,Greenboro Est
+46,transit_count,36,Hawthorne Meadows - Sheffield Glen, 
+47,transit_count,51,Hintonburg - Mechanicsville, 
+48,transit_count,65,Hunt Club - Ottawa Airport,Hunt Club - Aéroport d'Ottawa
+49,transit_count,74,Hunt Club East - Western Community,Hunt Club Est - Communauté de l'Ouest
+54,transit_count,58,Iris - Queensway Terrance South,Iris - Queensway Terrance Sud
+55,transit_count,58,Island Park - Wellington Village,Island Park - Village Wellington
+929,transit_count,106,Katimavik - Hazeldean, 
+932,transit_count,60,Ledbury - Heron Gate - Ridgemont, 
+933,transit_count,32,Lindenlea - New Edinburgh, 
+934,transit_count,37,Lowertown,Basse-ville
+939,transit_count,84,Orléans Village - Chateauneuf, 
+940,transit_count,159,Overbrook - McArthur, 
+87,transit_count,41,Playfair Park - Lynda Park - Guildwood Estates,Parc Playfair - Parc Lynda - Domaines Guildwood
+88,transit_count,48,Qualicum - Redwood Park,Qualicum - Parc Redwood
+943,transit_count,132,Queenswood Heights, 
+90,transit_count,58,Riverside Park,Parc Riverside
+949,transit_count,72,Sandy Hill,Côte-de-Sable
+100,transit_count,33,Trend-Arlington, 
+97,transit_count,71,South Keys - Greenboro West,South Keys - Greenboro Ouest
+99,transit_count,41,Tanglewood, 
+954,transit_count,56,Vanier South,Vanier Sud
+957,transit_count,69,West Centretown,Centre-Ville Ouest
+958,transit_count,94,Westboro, 
+106,transit_count,92,Whitehaven - Queensway Terrace North,Whitehaven - Terrasse Queensway Nord
+108,transit_count,60,Woodvale - Craig Henry - Manordale - Estates of Arlington Woods,Woodvale - Craig Henry - Manordale - Domaines des Bois d'Arlington
+948,transit_count,22,Rockcliffe Park,Parc Rockcliffe
+956,transit_count,32,Wateridge Village,Village des Riverains
+953,transit_count,66,Vanier North,Vanier Nord
+915,transit_count,138,Convent Glen - Orléans Woods, 
+50,transit_count,38,Hunt Club Park,Parc Hunt Club
+917,transit_count,230,East Industrial,Industriel-Est
+919,transit_count,84,Elmvale - Canterbury, 
+65,transit_count,87,Merivale Gardens - Grenfell Glen - Pineglen - Country Place,Merivale Gardens - Grenfell Glen - Pineglen - Country Place
+93,transit_count,84,Rothwell Heights - Beacon Hill North,Rothwell Heights - Beacon Hill Nord
+76,transit_count,31,Chatelaine Village,Village Chatelaine
+924,transit_count,97,Glen Cairn - Kanata South Business Park,Glen Cairn - Parc d'Affaires Kanata-Sud
+928,transit_count,106,Kanata Lakes - Arcardia, 
+927,transit_count,66,Hunt Club Woods - Quintarra - Revelstoke,Hunt Club Woods - Quintarra - Revelstoke
+13,transit_count,113,Bridlewood - Emerald Meadows, 
+942,transit_count,140,Portobello South, 
+75,transit_count,75,Chapel Hill South,Chapel Hill Sud
+904,transit_count,60,Blackburn Hamlet, 
+945,transit_count,57,Rideau Crest - Davidson Heights, 
+946,transit_count,68,Riverside South - Leitrim,Riverside Sud - Leitrim
+32,transit_count,47,Crystal Bay - Lakeview Park,Baie Crystal - Parc Lakeview
+906,transit_count,58,Britannia Village, 
+908,transit_count,39,Byward Market,Marché By
+83,transit_count,33,Old Ottawa South,Vieil Ottawa-Sud
+82,transit_count,40,Old Ottawa East,Vieil Ottawa-Est
+17,transit_count,9,Carleton University,Université Carleton
+5,transit_count,15,Beechwood Cemetery,Cimetière Beechwood
+60,transit_count,22,Lebreton Development,Développement Lebreton
+71,transit_count,6,Notre-Dame Cemetery,Cimetière Notre-Dame
+77,transit_count,25,Orléans Industrial,Orléans Industriel
+51,transit_count,87,Hunt Club South Industrial,Hunt Club Sud Industriel
+951,transit_count,217,Stittsville, 
+952,transit_count,73,Stonebridge - Half Moon Bay - Heart's Desire, 
+944,transit_count,89,Richmond, 
+922,transit_count,0,Fitzroy, 
+29,transit_count,0,Constance Bay,Baie Constance
+916,transit_count,65,Cumberland, 
+67,transit_count,22,Munster - Ashton, 
+85,transit_count,0,Marlborough, 
+30,transit_count,0,Corkery, 
+930,transit_count,0,Kinburn, 
+70,transit_count,20,North Gower - Kars, 
+64,transit_count,72,Manotick, 
+81,transit_count,4,Osgoode - Vernon, 
+66,transit_count,12,Metcalfe, 
+918,transit_count,36,Edwards - Carlsbad Springs, 
+925,transit_count,23,Greely, 
+955,transit_count,18,Vars, 
+936,transit_count,101,Navan - Sarsfield, 
+35,transit_count,4,Dunrobin, 
+911,transit_count,15,Carp, 
+901,transit_count,38,Bayshore - Belltown, 
+926,transit_count,211,Greenbelt,Ceinture de Verdure
+86,transit_count,37,Pineview, 
+907,transit_count,118,Brookside - Briarbrook - Morgan's Grant, 
+937,transit_count,137,Old Barrhaven East,Old Barrhaven Est
+921,transit_count,59,Findlay Creek, 
+941,transit_count,33,Parkwood Hills - Stewart Farm, 
+920,transit_count,156,Fallingbrook, 
+909,transit_count,95,Cardinal Creek, 
+947,transit_count,45,Riverview, 
+935,transit_count,48,Manor Park, 
+914,transit_count,57,Chapman Mills, 
+0,transit_count1000,6.313975492307944,Ottawa,Ottawa
+938,transit_count1000,6.175243393602225,Old Barrhaven West,Old Barrhaven Ouest
+3,transit_count1000,9.09090909090909,Beacon Hill South - Cardinal Heights,Beacon Hill Sud - Cardinal Heights
+902,transit_count1000,7.6452599388379205,Beaverbrook, 
+6,transit_count1000,9.825327510917031,Bells Corners East,Bells Corners Est
+7,transit_count1000,10.144927536231883,Bells Corners West,Bells Corners Ouest
+903,transit_count1000,11.308817714511664,Billings Bridge - Alta Vista, 
+52,transit_count1000,5.379557680812911,Hunt Club Upper -Blossom Park - Timbermill,Hunt Club Supérieur - Parc Blossom - Timbermill
+905,transit_count1000,9.084652443220921,Borden Farm - Fisher Glen, 
+11,transit_count1000,7.533234859675036,Braemar Park - Bel Air Heights - Copeland Park,Parc Braemar - Hauteurs Bel Air - Parc Copeland
+12,transit_count1000,5.598455598455598,Briar Green - Leslie Park,Briar Green - Parc Leslie
+16,transit_count1000,6.734534064212999,Carleton Heights - Rideauview,Hauteurs Carleton - Rideauview
+18,transit_count1000,9.572301425661914,Carlington, 
+931,transit_count1000,9.09090909090909,Laurentian, 
+910,transit_count1000,9.146005509641872,Carlingwood West - Glabar Park - McKellar Heights, 
+912,transit_count1000,7.785234899328859,Carson Grove - Carson Meadows, 
+23,transit_count1000,7.173601147776184,Centrepointe, 
+24,transit_count1000,3.3232088618902984,Centretown,Centre-Ville
+913,transit_count1000,6.789250353606789,Chapel Hill North, 
+950,transit_count1000,11.338962605548854,Skyline - Fisher Heights, 
+28,transit_count1000,12.087912087912088,Civic Hospital-Central Park,Hôpital Civique - Parc Central
+31,transit_count1000,8.444187391555813,Cityview - Crestview - Meadowlands, 
+38,transit_count1000,5.16934046345811,Emerald Woods - Sawmill Creek, 
+923,transit_count1000,4.733727810650888,Glebe - Dows Lake,Glebe – Lac Dows
+45,transit_count1000,5.633802816901409,Greenboro East,Greenboro Est
+46,transit_count1000,5.421686746987952,Hawthorne Meadows - Sheffield Glen, 
+47,transit_count1000,5.214723926380368,Hintonburg - Mechanicsville, 
+48,transit_count1000,32.25806451612903,Hunt Club - Ottawa Airport,Hunt Club - Aéroport d'Ottawa
+49,transit_count1000,7.044264635887672,Hunt Club East - Western Community,Hunt Club Est - Communauté de l'Ouest
+54,transit_count1000,9.855564995751912,Iris - Queensway Terrance South,Iris - Queensway Terrance Sud
+55,transit_count1000,10.069444444444445,Island Park - Wellington Village,Island Park - Village Wellington
+929,transit_count1000,9.32277924362357,Katimavik - Hazeldean, 
+932,transit_count1000,4.4493882091212456,Ledbury - Heron Gate - Ridgemont, 
+933,transit_count1000,6.517311608961304,Lindenlea - New Edinburgh, 
+934,transit_count1000,5.9629331184528604,Lowertown,Basse-ville
+939,transit_count1000,8.100289296046286,Orléans Village - Chateauneuf, 
+940,transit_count1000,8.302872062663186,Overbrook - McArthur, 
+87,transit_count1000,6.88497061293031,Playfair Park - Lynda Park - Guildwood Estates,Parc Playfair - Parc Lynda - Domaines Guildwood
+88,transit_count1000,11.214953271028037,Qualicum - Redwood Park,Qualicum - Parc Redwood
+943,transit_count1000,10.784313725490195,Queenswood Heights, 
+90,transit_count1000,13.019079685746354,Riverside Park,Parc Riverside
+949,transit_count1000,6.2717770034843205,Sandy Hill,Côte-de-Sable
+100,transit_count1000,6.748466257668712,Trend-Arlington, 
+97,transit_count1000,16.78486997635934,South Keys - Greenboro West,South Keys - Greenboro Ouest
+99,transit_count1000,8.677248677248677,Tanglewood, 
+954,transit_count1000,8.562691131498472,Vanier South,Vanier Sud
+957,transit_count1000,7.293868921775899,West Centretown,Centre-Ville Ouest
+958,transit_count1000,8.216783216783217,Westboro, 
+106,transit_count1000,8.031427324312528,Whitehaven - Queensway Terrace North,Whitehaven - Terrasse Queensway Nord
+108,transit_count1000,7.303712720632989,Woodvale - Craig Henry - Manordale - Estates of Arlington Woods,Woodvale - Craig Henry - Manordale - Domaines des Bois d'Arlington
+948,transit_count1000,11,Rockcliffe Park,Parc Rockcliffe
+956,transit_count1000,125.49019607843137,Wateridge Village,Village des Riverains
+953,transit_count1000,6.395348837209302,Vanier North,Vanier Nord
+915,transit_count1000,9.33378424078458,Convent Glen - Orléans Woods, 
+50,transit_count1000,4.308390022675737,Hunt Club Park,Parc Hunt Club
+917,transit_count1000,130.31161473087818,East Industrial,Industriel-Est
+919,transit_count1000,7.219596046411689,Elmvale - Canterbury, 
+65,transit_count1000,29.292929292929294,Merivale Gardens - Grenfell Glen - Pineglen - Country Place,Merivale Gardens - Grenfell Glen - Pineglen - Country Place
+93,transit_count1000,8.151382823871907,Rothwell Heights - Beacon Hill North,Rothwell Heights - Beacon Hill Nord
+76,transit_count1000,7.363420427553444,Chatelaine Village,Village Chatelaine
+924,transit_count1000,8.746618575293057,Glen Cairn - Kanata South Business Park,Glen Cairn - Parc d'Affaires Kanata-Sud
+928,transit_count1000,6.433990895295903,Kanata Lakes - Arcardia, 
+927,transit_count1000,10.927152317880795,Hunt Club Woods - Quintarra - Revelstoke,Hunt Club Woods - Quintarra - Revelstoke
+13,transit_count1000,4.6617161716171625,Bridlewood - Emerald Meadows, 
+942,transit_count1000,6.077707835901888,Portobello South, 
+75,transit_count1000,7.458975634012929,Chapel Hill South,Chapel Hill Sud
+904,transit_count1000,7.402837754472547,Blackburn Hamlet, 
+945,transit_count1000,3.9391845196959228,Rideau Crest - Davidson Heights, 
+946,transit_count1000,4.85021398002853,Riverside South - Leitrim,Riverside Sud - Leitrim
+32,transit_count1000,12.25554106910039,Crystal Bay - Lakeview Park,Baie Crystal - Parc Lakeview
+906,transit_count1000,9.098039215686274,Britannia Village, 
+908,transit_count1000,7.624633431085044,Byward Market,Marché By
+83,transit_count1000,5.314009661835749,Old Ottawa South,Vieil Ottawa-Sud
+82,transit_count1000,5.442176870748299,Old Ottawa East,Vieil Ottawa-Est
+17,transit_count1000,0,Carleton University,Université Carleton
+5,transit_count1000,0,Beechwood Cemetery,Cimetière Beechwood
+60,transit_count1000,37.28813559322034,Lebreton Development,Développement Lebreton
+71,transit_count1000,0,Notre-Dame Cemetery,Cimetière Notre-Dame
+77,transit_count1000,147.05882352941177,Orléans Industrial,Orléans Industriel
+51,transit_count1000,105.45454545454545,Hunt Club South Industrial,Hunt Club Sud Industriel
+951,transit_count1000,6.911928651059085,Stittsville, 
+952,transit_count1000,4.392298435619735,Stonebridge - Half Moon Bay - Heart's Desire, 
+944,transit_count1000,11.81154611811546,Richmond, 
+922,transit_count1000,0,Fitzroy, 
+29,transit_count1000,0,Constance Bay,Baie Constance
+916,transit_count1000,15.439429928741092,Cumberland, 
+67,transit_count1000,6.102635228848821,Munster - Ashton, 
+85,transit_count1000,0,Marlborough, 
+30,transit_count1000,0,Corkery, 
+930,transit_count1000,0,Kinburn, 
+70,transit_count1000,3.8095238095238093,North Gower - Kars, 
+64,transit_count1000,7.899067471201317,Manotick, 
+81,transit_count1000,0.746268656716418,Osgoode - Vernon, 
+66,transit_count1000,2.2966507177033493,Metcalfe, 
+918,transit_count1000,10.126582278481013,Edwards - Carlsbad Springs, 
+925,transit_count1000,2.33739837398374,Greely, 
+955,transit_count1000,7.086614173228346,Vars, 
+936,transit_count1000,24.36670687575392,Navan - Sarsfield, 
+35,transit_count1000,0.6779661016949153,Dunrobin, 
+911,transit_count1000,2.2539444027047333,Carp, 
+901,transit_count1000,4.125950054288817,Bayshore - Belltown, 
+926,transit_count1000,129.4478527607362,Greenbelt,Ceinture de Verdure
+86,transit_count1000,6.030969845150775,Pineview, 
+907,transit_count1000,7.475451377890402,Brookside - Briarbrook - Morgan's Grant, 
+937,transit_count1000,5.418232153450663,Old Barrhaven East,Old Barrhaven Est
+921,transit_count1000,6.7544361763022325,Findlay Creek, 
+941,transit_count1000,6.185567010309278,Parkwood Hills - Stewart Farm, 
+920,transit_count1000,8.297872340425531,Fallingbrook, 
+909,transit_count1000,8.388520971302428,Cardinal Creek, 
+947,transit_count1000,7.431874483897605,Riverview, 
+935,transit_count1000,6.862044317369549,Manor Park, 
+914,transit_count1000,4.7420965058236275,Chapman Mills, 
+0,transit_countsqkm,2.069717554522703,Ottawa,Ottawa
+938,transit_countsqkm,21.75497369675903,Old Barrhaven West,Old Barrhaven Ouest
+3,transit_countsqkm,29.569310532659603,Beacon Hill South - Cardinal Heights,Beacon Hill Sud - Cardinal Heights
+902,transit_countsqkm,17.610657825849696,Beaverbrook, 
+6,transit_countsqkm,13.412826606202678,Bells Corners East,Bells Corners Est
+7,transit_countsqkm,30.641283521752946,Bells Corners West,Bells Corners Ouest
+903,transit_countsqkm,23.04107082491753,Billings Bridge - Alta Vista, 
+52,transit_countsqkm,10.315764130204462,Hunt Club Upper -Blossom Park - Timbermill,Hunt Club Supérieur - Parc Blossom - Timbermill
+905,transit_countsqkm,25.55820859527969,Borden Farm - Fisher Glen, 
+11,transit_countsqkm,21.6224319941635,Braemar Park - Bel Air Heights - Copeland Park,Parc Braemar - Hauteurs Bel Air - Parc Copeland
+12,transit_countsqkm,15.243675442555924,Briar Green - Leslie Park,Briar Green - Parc Leslie
+16,transit_countsqkm,20.15615013572427,Carleton Heights - Rideauview,Hauteurs Carleton - Rideauview
+18,transit_countsqkm,34.64091280093578,Carlington, 
+931,transit_countsqkm,32.19959901488078,Laurentian, 
+910,transit_countsqkm,27.91996501177628,Carlingwood West - Glabar Park - McKellar Heights, 
+912,transit_countsqkm,19.513407690685067,Carson Grove - Carson Meadows, 
+23,transit_countsqkm,23.619314891075923,Centrepointe, 
+24,transit_countsqkm,27.763884748093723,Centretown,Centre-Ville
+913,transit_countsqkm,18.996910173140325,Chapel Hill North, 
+950,transit_countsqkm,24.34294560964972,Skyline - Fisher Heights, 
+28,transit_countsqkm,17.57962079412307,Civic Hospital-Central Park,Hôpital Civique - Parc Central
+31,transit_countsqkm,18.473410078306532,Cityview - Crestview - Meadowlands, 
+38,transit_countsqkm,16.000459215386442,Emerald Woods - Sawmill Creek, 
+923,transit_countsqkm,22.016047514646264,Glebe - Dows Lake,Glebe – Lac Dows
+45,transit_countsqkm,27.60517359269108,Greenboro East,Greenboro Est
+46,transit_countsqkm,31.09943774134362,Hawthorne Meadows - Sheffield Glen, 
+47,transit_countsqkm,27.825738924609524,Hintonburg - Mechanicsville, 
+48,transit_countsqkm,4.247822352890524,Hunt Club - Ottawa Airport,Hunt Club - Aéroport d'Ottawa
+49,transit_countsqkm,21.606116548410537,Hunt Club East - Western Community,Hunt Club Est - Communauté de l'Ouest
+54,transit_countsqkm,26.9116889706306,Iris - Queensway Terrance South,Iris - Queensway Terrance Sud
+55,transit_countsqkm,23.19605471295178,Island Park - Wellington Village,Island Park - Village Wellington
+929,transit_countsqkm,19.209668852351125,Katimavik - Hazeldean, 
+932,transit_countsqkm,22.36324556104093,Ledbury - Heron Gate - Ridgemont, 
+933,transit_countsqkm,18.818319692792954,Lindenlea - New Edinburgh, 
+934,transit_countsqkm,46.670877506646164,Lowertown,Basse-ville
+939,transit_countsqkm,25.703584013967426,Orléans Village - Chateauneuf, 
+940,transit_countsqkm,26.0703583736137,Overbrook - McArthur, 
+87,transit_countsqkm,19.839734354899385,Playfair Park - Lynda Park - Guildwood Estates,Parc Playfair - Parc Lynda - Domaines Guildwood
+88,transit_countsqkm,26.090984374171423,Qualicum - Redwood Park,Qualicum - Parc Redwood
+943,transit_countsqkm,29.970294043949522,Queenswood Heights, 
+90,transit_countsqkm,18.01663641793523,Riverside Park,Parc Riverside
+949,transit_countsqkm,33.21462020577606,Sandy Hill,Côte-de-Sable
+100,transit_countsqkm,19.06822047408732,Trend-Arlington, 
+97,transit_countsqkm,22.37976412700081,South Keys - Greenboro West,South Keys - Greenboro Ouest
+99,transit_countsqkm,18.70969942437552,Tanglewood, 
+954,transit_countsqkm,42.06903223188769,Vanier South,Vanier Sud
+957,transit_countsqkm,38.64652609045823,West Centretown,Centre-Ville Ouest
+958,transit_countsqkm,29.672574248288875,Westboro, 
+106,transit_countsqkm,28.818388503493306,Whitehaven - Queensway Terrace North,Whitehaven - Terrasse Queensway Nord
+108,transit_countsqkm,18.605578314815446,Woodvale - Craig Henry - Manordale - Estates of Arlington Woods,Woodvale - Craig Henry - Manordale - Domaines des Bois d'Arlington
+948,transit_countsqkm,9.789850386317777,Rockcliffe Park,Parc Rockcliffe
+956,transit_countsqkm,8.020050125313283,Wateridge Village,Village des Riverains
+953,transit_countsqkm,38.7518354843574,Vanier North,Vanier Nord
+915,transit_countsqkm,22.562332224413016,Convent Glen - Orléans Woods, 
+50,transit_countsqkm,20.873830888386006,Hunt Club Park,Parc Hunt Club
+917,transit_countsqkm,17.64477660028899,East Industrial,Industriel-Est
+919,transit_countsqkm,20.98158856686083,Elmvale - Canterbury, 
+65,transit_countsqkm,13.395350668000326,Merivale Gardens - Grenfell Glen - Pineglen - Country Place,Merivale Gardens - Grenfell Glen - Pineglen - Country Place
+93,transit_countsqkm,14.123493741351217,Rothwell Heights - Beacon Hill North,Rothwell Heights - Beacon Hill Nord
+76,transit_countsqkm,8.156315309310433,Chatelaine Village,Village Chatelaine
+924,transit_countsqkm,21.406839095177475,Glen Cairn - Kanata South Business Park,Glen Cairn - Parc d'Affaires Kanata-Sud
+928,transit_countsqkm,8.84657591288812,Kanata Lakes - Arcardia, 
+927,transit_countsqkm,12.834669770418593,Hunt Club Woods - Quintarra - Revelstoke,Hunt Club Woods - Quintarra - Revelstoke
+13,transit_countsqkm,17.35801534768989,Bridlewood - Emerald Meadows, 
+942,transit_countsqkm,17.682374500970283,Portobello South, 
+75,transit_countsqkm,7.524347473922108,Chapel Hill South,Chapel Hill Sud
+904,transit_countsqkm,20.30765299582521,Blackburn Hamlet, 
+945,transit_countsqkm,11.893886999454402,Rideau Crest - Davidson Heights, 
+946,transit_countsqkm,2.7795748319498896,Riverside South - Leitrim,Riverside Sud - Leitrim
+32,transit_countsqkm,8.521164953908311,Crystal Bay - Lakeview Park,Baie Crystal - Parc Lakeview
+906,transit_countsqkm,27.451724794211685,Britannia Village, 
+908,transit_countsqkm,31.351445111943416,Byward Market,Marché By
+83,transit_countsqkm,22.853290809333313,Old Ottawa South,Vieil Ottawa-Sud
+82,transit_countsqkm,23.284548087605547,Old Ottawa East,Vieil Ottawa-Est
+17,transit_countsqkm,9.870036957333483,Carleton University,Université Carleton
+5,transit_countsqkm,22.544830158048562,Beechwood Cemetery,Cimetière Beechwood
+60,transit_countsqkm,25.283639016608905,Lebreton Development,Développement Lebreton
+71,transit_countsqkm,29.273274280227024,Notre-Dame Cemetery,Cimetière Notre-Dame
+77,transit_countsqkm,47.58223926760991,Orléans Industrial,Orléans Industriel
+51,transit_countsqkm,19.008540983181256,Hunt Club South Industrial,Hunt Club Sud Industriel
+951,transit_countsqkm,7.233054098868829,Stittsville, 
+952,transit_countsqkm,5.02510707326059,Stonebridge - Half Moon Bay - Heart's Desire, 
+944,transit_countsqkm,0.5271554186827904,Richmond, 
+922,transit_countsqkm,0,Fitzroy, 
+29,transit_countsqkm,0,Constance Bay,Baie Constance
+916,transit_countsqkm,1.1927485365637434,Cumberland, 
+67,transit_countsqkm,0.16147170336621716,Munster - Ashton, 
+85,transit_countsqkm,0,Marlborough, 
+30,transit_countsqkm,0,Corkery, 
+930,transit_countsqkm,0,Kinburn, 
+70,transit_countsqkm,0.13751406518783166,North Gower - Kars, 
+64,transit_countsqkm,1.2299163222740392,Manotick, 
+81,transit_countsqkm,0.029436374532277813,Osgoode - Vernon, 
+66,transit_countsqkm,0.08579119985357272,Metcalfe, 
+918,transit_countsqkm,0.21586202293769644,Edwards - Carlsbad Springs, 
+925,transit_countsqkm,0.33088324357033677,Greely, 
+955,transit_countsqkm,0.23349048571755943,Vars, 
+936,transit_countsqkm,0.9085254121268267,Navan - Sarsfield, 
+35,transit_countsqkm,0.031535424814109744,Dunrobin, 
+911,transit_countsqkm,0.08383965470188831,Carp, 
+901,transit_countsqkm,23.632834036416053,Bayshore - Belltown, 
+926,transit_countsqkm,1.2712205095714282,Greenbelt,Ceinture de Verdure
+86,transit_countsqkm,20.35746770239469,Pineview, 
+907,transit_countsqkm,12.497318521588946,Brookside - Briarbrook - Morgan's Grant, 
+937,transit_countsqkm,22.234745397067485,Old Barrhaven East,Old Barrhaven Est
+921,transit_countsqkm,6.067174691180675,Findlay Creek, 
+941,transit_countsqkm,64.81859057046368,Parkwood Hills - Stewart Farm, 
+920,transit_countsqkm,27.34734949284487,Fallingbrook, 
+909,transit_countsqkm,9.976086025954718,Cardinal Creek, 
+947,transit_countsqkm,24.919533028108187,Riverview, 
+935,transit_countsqkm,25.76766158471119,Manor Park, 
+914,transit_countsqkm,15.690627006613555,Chapman Mills, 
