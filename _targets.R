@@ -343,6 +343,16 @@ list(
       mutate(num_routes = if_else(is.na(num_routes), 0L, num_routes)) %>%
       sf::st_transform(crs = "WGS84") %>%
       ggplot() +
+      geom_rect(ymin = sf::st_bbox(ott_dbs_shp_whole)$ymin,
+                ymax = sf::st_bbox(ott_dbs_shp_whole)$ymax,
+                xmin = sf::st_bbox(ott_dbs_shp_whole)$xmin,
+                xmax = sf::st_bbox(ott_dbs_shp_whole)$xmax,
+                fill = "white") +
+      geom_rect(ymin = ymin,
+                ymax = ymax,
+                xmin = xmin,
+                xmax = xmax,
+                fill = "white") +
       geom_sf(aes(fill = num_routes), colour = NA) +
       #scale_fill_viridis_b() +
       scale_fill_viridis_b(breaks = c(0,1,2,3,7,10,15,21,30, 40, 50) )+
@@ -358,7 +368,8 @@ list(
                 xmin = xmin,
                 xmax = xmax,
                 fill = NA,
-                colour= "black")
+                colour= "black") +
+      ggspatial::annotation_scale(location="tl")
 
    # map_all
 
@@ -366,25 +377,11 @@ list(
       coord_sf(ylim = c(ymin, ymax), xlim = c(xmin, xmax), expand = FALSE) +
       theme(legend.position = c(1.2, .2))
 
-    cowplot::ggdraw(map_all) +
-      cowplot::draw_plot(map_downtown, x = 0.3,y=-0.3, scale = 0.6)
+    final_plot <- cowplot::ggdraw(map_all) +
+      cowplot::draw_plot(map_downtown, x = 0.3,y=-0.3, scale = 0.45)
 
-    #
-    # #
-    # db_routes_shp <- ott_dbs_shp_whole %>%
-    #   left_join(dbs_num_routes, by = "DBUID") %>%
-    #   mutate(num_routes = if_else(is.na(num_routes), 0L, num_routes)) %>%
-    #   sf::st_transform(crs = "WGS84")
-    #
-    # bins <- c(0,1,2,3,7,10,15,21,30, 40, 50)
-    #
-    # route_pal <- colorBin("viridis", range(db_routes_shp$num_routes), bins = bins)
-    #
-    # db_routes_shp %>%
-    #   #head(100) %>%
-    # leaflet() %>%
-    #   addTiles() %>%
-    #   addPolygons( label = ~paste0(DBUID, ": ", num_routes), weight = 1, fillColor =  ~ route_pal(num_routes), fillOpacity = 0.7)
+    ggplot2::ggsave(plot = final_plot, filename = sprintf("output_final/web_map_dbs_stops_within_600m_%s.png", Sys.Date()),
+                    dpi = 300)
 
   }),
 
