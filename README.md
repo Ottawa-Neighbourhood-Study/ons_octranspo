@@ -9,7 +9,7 @@ neighbourhoods.
 
 It uses the R package **targets**, which enables a reproducible
 scientific workflow. As written it requires access to a local Valhalla
-instance (e.g. through the gisops/valhalla Docker image).
+instance (e.g. through the gisops/valhalla Docker image).
 
 Transit data is from the [OCTranspo official GTFS
 feed](https://www.octranspo.com/en/plan-your-trip/travel-tools/developers/),

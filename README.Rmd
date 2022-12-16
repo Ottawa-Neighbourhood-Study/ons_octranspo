@@ -21,6 +21,8 @@ Transit data is from the [OCTranspo official GTFS feed](https://www.octranspo.co
 
 Final results are saved in the `output_final` folder in several formats.
 
+* MAKE NOTE OF EXACT TIME PERIOD COVERED IN GTFS FILE
+
 # Variable definitions
 
 | polygon_attribute | Name | Method of calculation|

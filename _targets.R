@@ -17,6 +17,7 @@ list(
              sf::st_buffer(sf::st_transform(ons_shp, crs = 32189), 50)),
   tar_target(ons_data, onsr::get_ons_data()),
   tar_target(gtfs_file,"data/google_transit_2022_nov.zip", format = "file"),
+  #tar_target(gtfs_file,"data/gtfs_2020_feb_28.zip", format = "file"),
   tar_target(gtfs, tidytransit::read_gtfs(gtfs_file)),
   tar_target(stops, dplyr::rename(gtfs$stops, lat = stop_lat, lon = stop_lon)),
   tar_target(stops_nad, {
@@ -298,31 +299,78 @@ list(
   }),
 
   targets::tar_target(save_results,{
-    readr::write_csv(all_outputs_long, sprintf("output_final/octranspo_results_long-%s.csv", Sys.Date()))
-    readr::write_csv(all_outputs_wide, sprintf("output_final/octranspo_results_wide-%s.csv", Sys.Date()))
-    readr::write_csv(compare_last_time, sprintf("output_final/octranspo_diffs-%s.csv", Sys.Date()))
+    filename <- stringr::str_extract(gtfs_file, "(?<=\\/).*")
+    readr::write_csv(all_outputs_long, sprintf("output_final/octranspo_results_long-%s-%s.csv", filename, Sys.Date()))
+    readr::write_csv(all_outputs_wide, sprintf("output_final/octranspo_results_wide-%s-%s.csv", filename, Sys.Date()))
+    readr::write_csv(compare_last_time, sprintf("output_final/octranspo_diffs-%s-%s.csv", filename, Sys.Date()))
   }),
 
   targets::tar_target(website_map, {
-    # ott_dbs_shp_whole %>%
-    #   left_join(dbs_num_routes, by = "DBUID") %>%
-    #   mutate(num_routes = if_else(is.na(num_routes), 0L, num_routes)) %>%
-    #   ggplot() +
-    #   geom_sf(aes(fill = num_routes), colour = NA) +
-    #   scale_fill_binned(breaks = c(0,1,2,3,7,10,15,21,30, 40) , type = "viridis") +
-    #   labs(fill = "# public transit routes\nwith stops within 600m")
+
+    stop_routes <- gtfs$stop_times %>%
+      dplyr::left_join(gtfs$trips, by = "trip_id") %>%
+      dplyr::group_by(stop_id) %>%
+      dplyr::distinct(route_id) %>%
+      tidyr::nest(routes = route_id )
+
+
+    # get # routes stopping at all stops
+    stop_numroutes <- gtfs$stop_times %>%
+      dplyr::left_join(gtfs$trips, by = "trip_id") %>%
+      dplyr::group_by(stop_id) %>%
+      dplyr::distinct(route_id) %>%
+      dplyr::count(sort = TRUE)
+
+
+    dbs_num_routes <- dbs_stops_walkdist %>%
+      dplyr::filter(distance < 0.6)  %>%
+      dplyr::select(DBUID, stop_id) %>%
+      dplyr::left_join(stop_routes, by = "stop_id")  %>%
+      tidyr::unnest(routes) %>%
+      dplyr::distinct(DBUID, route_id) %>%
+      dplyr::group_by(DBUID) %>%
+      dplyr::count(name = "num_routes") %>%
+      dplyr::ungroup()
+
+
+    ymin = 45.3
+    ymax = 45.43
+    xmin = -75.83
+    xmax = -75.65
+
+    map_all <- ott_dbs_shp_whole %>%
+      left_join(dbs_num_routes, by = "DBUID") %>%
+      mutate(num_routes = if_else(is.na(num_routes), 0L, num_routes)) %>%
+      sf::st_transform(crs = "WGS84") %>%
+      ggplot() +
+      geom_sf(aes(fill = num_routes), colour = NA) +
+      #scale_fill_viridis_b() +
+      scale_fill_viridis_b(breaks = c(0,1,2,3,7,10,15,21,30, 40, 50) )+
+      #scale_fill_binned(breaks = c(0,1,2,3,7,10,15,21,30, 40) , type = "viridis::inferno") +
+      labs(fill = "# public transit routes\nwith stops within 600m") +
+      theme_void() +
+      theme(
+        legend.justification = c(0, 1),
+        legend.position = c(0.05, .4)
+      ) +
+      geom_rect(ymin = ymin,
+                ymax = ymax,
+                xmin = xmin,
+                xmax = xmax,
+                fill = NA,
+                colour= "black")
+
+   # map_all
+
+    map_downtown <- map_all +
+      coord_sf(ylim = c(ymin, ymax), xlim = c(xmin, xmax), expand = FALSE) +
+      theme(legend.position = c(1.2, .2))
+
+    cowplot::ggdraw(map_all) +
+      cowplot::draw_plot(map_downtown, x = 0.3,y=-0.3, scale = 0.6)
+
     #
-    # ott_dbs_shp_whole %>%
-    #   left_join(dbs_num_routes, by = "DBUID") %>%
-    #   mutate(num_routes = if_else(is.na(num_routes), 0L, num_routes)) %>%
-    #   sf::st_transform(crs = "WGS84") %>%
-    #   ggplot() +
-    #   geom_sf(aes(fill = num_routes), colour = NA) +
-    #   scale_fill_binned(breaks = c(0,1,2,3,7,10,15,21,30, 40, 50) , type = "viridis") +
-    #   labs(fill = "# public transit routes\nwith stops within 600m") +
-    #   coord_sf(ylim = c(45.28, 45.46), xlim = c(-75.85, -75.6))
-    #
-    #
+    # #
     # db_routes_shp <- ott_dbs_shp_whole %>%
     #   left_join(dbs_num_routes, by = "DBUID") %>%
     #   mutate(num_routes = if_else(is.na(num_routes), 0L, num_routes)) %>%
